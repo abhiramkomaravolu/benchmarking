@@ -1,0 +1,1001 @@
+Project ID,Location,Type,Scope (km or m3),CapEx ($M),Duration (months),Safety Score,Delay %,Rework Cost %
+OIL001,Lac La Biche County,Storage Terminal,181932 m3,908.75,21,85.2,11.7%,0.5%
+OIL002,Sachs Harbour,Offshore Platform,117221 m3,701.44,18,84.4,7.8%,1.2%
+OIL003,Peace River,Offshore Platform,117435 m3,1311.9,34,85.5,6.2%,0.5%
+OIL004,Fort Simpson,Storage Terminal,170174 m3,741.66,21,96.3,1.1%,0.5%
+OIL005,Fort Saskatchewan,Storage Terminal,69457 m3,524.41,12,88.2,6.0%,0.5%
+OIL006,Kugluktuk,Storage Terminal,51016 m3,591.22,16,96.6,2.6%,0.6%
+OIL007,Ponoka County No. 3,Pipeline,206 km,916.42,26,95.6,3.7%,0.5%
+OIL008,Lac La Biche County,Pipeline,377 km,738.16,16,91.6,7.1%,1.1%
+OIL009,Redwater,Offshore Platform,158066 m3,592.43,15,88.9,7.1%,1.5%
+OIL010,Clyde River,Refinery,172409 m3,1112.93,24,86.9,6.4%,1.8%
+OIL011,Kugluktuk,Petrochemical Plant,155878 m3,974.54,31,93.5,4.9%,0.6%
+OIL012,Lutsel K’e,Storage Terminal,145259 m3,978.53,23,84.4,7.1%,1.3%
+OIL013,Clearwater County,Pipeline,434 km,721.58,14,93.2,3.9%,0.5%
+OIL014,Bonnyville M.D. No. 87,Pipeline,356 km,869.1,19,88.7,4.7%,0.7%
+OIL015,Fort Simpson,Pipeline,367 km,796.29,15,87.7,4.2%,0.5%
+OIL016,Inuvik,Petrochemical Plant,219695 m3,1292.65,32,88.2,5.8%,1.1%
+OIL017,Bonnyville,Storage Terminal,233734 m3,644.93,18,86.8,9.4%,2.4%
+OIL018,Peace River,Pipeline,250 km,1238.09,28,89.7,5.3%,1.0%
+OIL019,Dawson City,Refinery,84754 m3,692.77,21,89.7,0.2%,0.6%
+OIL020,Fort Saskatchewan,Refinery,80306 m3,974.66,22,85.9,7.1%,1.3%
+OIL021,M.D. of Opportunity No. 17,Storage Terminal,70932 m3,851.98,24,85.1,4.8%,1.5%
+OIL022,Athabasca County,Pipeline,469 km,1043.41,27,95.4,2.6%,0.5%
+OIL023,Peace River,Petrochemical Plant,162296 m3,533.99,13,92.4,2.3%,0.8%
+OIL024,Dawson City,Petrochemical Plant,255362 m3,422.69,11,90.3,4.9%,1.8%
+OIL025,M.D. of Opportunity No. 17,Petrochemical Plant,143179 m3,607.4,18,87.2,6.1%,0.7%
+OIL026,Clyde River,Petrochemical Plant,199783 m3,942.8,25,79.2,11.1%,1.3%
+OIL027,Lutsel K’e,Pipeline,305 km,336.39,8,96.4,1.1%,0.5%
+OIL028,Strathcona County,Refinery,226089 m3,1077.92,30,92.3,1.9%,1.0%
+OIL029,Bonnyville,Refinery,285362 m3,931.36,19,83.3,9.3%,0.8%
+OIL030,Dawson City,Storage Terminal,82097 m3,774.45,20,86.6,6.6%,1.1%
+OIL031,Inuvik,Refinery,277897 m3,705.61,21,88.3,3.7%,1.2%
+OIL032,Kugluktuk,Petrochemical Plant,239407 m3,545.83,21,94.4,5.5%,2.0%
+OIL033,Strathcona County,Offshore Platform,136672 m3,538.42,7,81.6,10.9%,1.4%
+OIL034,Redwater,Petrochemical Plant,166352 m3,641.3,15,85.7,7.8%,1.1%
+OIL035,Sachs Harbour,Petrochemical Plant,164548 m3,854.21,28,83.8,11.9%,3.0%
+OIL036,Dawson City,Petrochemical Plant,253861 m3,681.42,18,90.1,3.1%,0.6%
+OIL037,Lac La Biche County,Storage Terminal,243824 m3,1222.62,29,88.7,6.7%,0.7%
+OIL038,Clyde River; Pond Inlet; Whale Cove,Petrochemical Plant,66364 m3,951.19,23,87.2,7.7%,1.7%
+OIL039,Fort Saskatchewan,Offshore Platform,216267 m3,845.4,20,86.8,8.9%,1.8%
+OIL040,Ponoka County No. 3,Storage Terminal,88494 m3,918.26,22,89.6,2.1%,1.0%
+OIL041,Strathcona County,Refinery,257869 m3,682.13,20,89.4,3.9%,1.1%
+OIL042,Lutsel K’e,Petrochemical Plant,273992 m3,916.26,16,92.6,7.4%,2.7%
+OIL043,Kugluktuk,Refinery,120640 m3,666.16,20,94.2,2.0%,1.2%
+OIL044,Inuvik,Petrochemical Plant,116234 m3,804.2,21,86.5,6.3%,2.3%
+OIL045,Peace River,Petrochemical Plant,176020 m3,598.8,11,91.6,5.8%,1.1%
+OIL046,Bonnyville M.D. No. 87,Offshore Platform,88102 m3,798.24,25,86.6,6.9%,1.9%
+OIL047,Edmonton,Petrochemical Plant,231415 m3,705.79,18,81.2,6.6%,1.4%
+OIL048,Dawson City,Petrochemical Plant,298683 m3,1072.02,21,93.3,2.7%,0.5%
+OIL049,Fort Simpson,Storage Terminal,238871 m3,864.54,19,92.1,7.0%,1.3%
+OIL050,Clyde River; Pond Inlet; Whale Cove,Pipeline,471 km,631.17,20,90.9,4.6%,1.0%
+OIL051,Peace River,Petrochemical Plant,242714 m3,766.39,20,85.1,7.9%,0.7%
+OIL052,M.D. of Opportunity No. 17,Petrochemical Plant,160133 m3,606.58,18,87.7,10.5%,1.2%
+OIL053,Kugluktuk,Refinery,152023 m3,1006.52,20,80.3,10.6%,2.3%
+OIL054,Edmonton,Offshore Platform,168012 m3,898.38,22,87.6,7.8%,1.0%
+OIL055,Fort Saskatchewan,Offshore Platform,276156 m3,738.05,15,84.6,10.8%,3.9%
+OIL056,Clearwater County,Offshore Platform,122474 m3,664.44,15,85.4,8.0%,3.0%
+OIL057,Whitehorse,Petrochemical Plant,73574 m3,709.99,20,82.7,8.4%,1.8%
+OIL058,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,86187 m3,907.1,12,86.9,5.5%,1.9%
+OIL059,Redwater,Petrochemical Plant,175917 m3,750.21,22,89.6,7.9%,1.7%
+OIL060,Regional Municipality of Wood Buffalo,Refinery,105393 m3,731.54,21,96.2,2.4%,0.5%
+OIL061,M.D. of Opportunity No. 17,Storage Terminal,251245 m3,996.31,26,89.9,6.6%,1.2%
+OIL062,Lutsel K’e,Refinery,119836 m3,793.46,21,82.5,9.7%,0.8%
+OIL063,Peace River,Offshore Platform,192709 m3,618.39,17,82.0,12.3%,3.6%
+OIL064,Dawson City,Offshore Platform,107108 m3,803.01,18,81.8,8.9%,0.7%
+OIL065,Regional Municipality of Wood Buffalo,Pipeline,127 km,556.3,10,91.8,2.3%,0.5%
+OIL066,Peace River,Petrochemical Plant,185504 m3,808.33,23,84.5,6.3%,1.2%
+OIL067,Clyde River; Pond Inlet; Whale Cove,Refinery,78699 m3,674.7,10,91.4,2.3%,2.2%
+OIL068,Ponoka County No. 3,Refinery,155977 m3,1023.91,22,81.4,9.9%,1.1%
+OIL069,Lac La Biche County,Pipeline,322 km,670.69,14,98.7,2.4%,0.5%
+OIL070,Yellowhead County,Refinery,62910 m3,799.34,19,94.3,2.1%,0.5%
+OIL071,Regional Municipality of Wood Buffalo,Offshore Platform,125703 m3,384.17,10,82.5,6.2%,1.6%
+OIL072,Yellowhead County,Pipeline,143 km,829.04,22,88.1,6.1%,1.7%
+OIL073,Dawson City,Petrochemical Plant,147579 m3,618.06,17,87.9,9.5%,2.2%
+OIL074,Athabasca County,Storage Terminal,155292 m3,827.7,19,90.2,3.2%,0.5%
+OIL075,Redwater,Refinery,166748 m3,683.48,18,87.7,4.1%,0.8%
+OIL076,Bonnyville M.D. No. 87,Storage Terminal,50235 m3,831.91,23,89.4,6.6%,1.5%
+OIL077,Sachs Harbour,Offshore Platform,222904 m3,952.57,26,83.2,9.3%,1.7%
+OIL078,Clearwater County,Petrochemical Plant,264057 m3,848.69,25,85.4,3.2%,0.5%
+OIL079,Fort Providence; Kakisa,Pipeline,72 km,1199.61,25,87.2,3.2%,0.5%
+OIL080,Whitehorse,Offshore Platform,74519 m3,1086.5,25,87.1,6.4%,2.1%
+OIL081,Kugluktuk,Petrochemical Plant,60789 m3,965.63,27,85.0,8.3%,1.1%
+OIL082,Strathcona County,Pipeline,167 km,1168.19,33,90.2,4.0%,0.7%
+OIL083,Regional Municipality of Wood Buffalo,Offshore Platform,197550 m3,1066.09,33,87.9,9.2%,2.4%
+OIL084,Fort Providence; Kakisa,Refinery,126077 m3,865.28,24,88.9,7.3%,1.1%
+OIL085,Redwater,Storage Terminal,261951 m3,896.2,23,86.8,7.5%,0.9%
+OIL086,Edmonton,Pipeline,263 km,1177.37,28,90.0,5.8%,0.8%
+OIL087,Inuvik,Offshore Platform,169719 m3,483.32,16,81.8,10.4%,2.2%
+OIL088,Fort Simpson,Pipeline,139 km,849.22,21,94.5,5.3%,0.6%
+OIL089,Athabasca County,Offshore Platform,251579 m3,761.82,20,80.2,10.5%,1.6%
+OIL090,Athabasca County,Refinery,191467 m3,660.36,17,82.1,8.9%,2.1%
+OIL091,Inuvik,Storage Terminal,202638 m3,800.14,20,87.3,6.6%,1.7%
+OIL092,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Petrochemical Plant,223532 m3,771.13,27,82.6,11.5%,0.8%
+OIL093,Fort Saskatchewan,Offshore Platform,169614 m3,740.27,16,85.4,6.9%,1.1%
+OIL094,M.D. of Opportunity No. 17,Storage Terminal,76399 m3,990.3,28,95.1,3.9%,0.5%
+OIL095,Inuvik,Pipeline,288 km,992.56,25,98.9,1.4%,0.5%
+OIL096,Edmonton,Offshore Platform,62175 m3,812.31,25,81.0,8.2%,1.8%
+OIL097,Lac La Biche County,Refinery,66032 m3,865.23,18,91.7,3.8%,0.5%
+OIL098,Regional Municipality of Wood Buffalo,Offshore Platform,152870 m3,636.74,19,82.3,10.7%,1.4%
+OIL099,Inuvik,Storage Terminal,211047 m3,833.28,18,89.9,5.7%,1.9%
+OIL100,Clyde River,Refinery,287804 m3,243.2,6,86.1,4.9%,1.5%
+OIL101,Ponoka County No. 3,Refinery,176678 m3,990.04,26,93.4,3.6%,0.6%
+OIL102,Fort Providence; Kakisa,Refinery,259483 m3,664.15,17,91.9,7.4%,1.5%
+OIL103,Ponoka County No. 3,Pipeline,459 km,1080.78,26,84.6,5.7%,1.6%
+OIL104,Kugluktuk,Pipeline,236 km,1041.52,28,85.0,11.7%,3.2%
+OIL105,Bonnyville M.D. No. 87,Pipeline,299 km,684.87,17,100.0,-0.2%,0.5%
+OIL106,Clyde River,Pipeline,178 km,848.5,27,91.8,1.0%,0.5%
+OIL107,Bonnyville M.D. No. 87,Storage Terminal,287739 m3,738.44,16,92.7,5.7%,1.5%
+OIL108,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Petrochemical Plant,117957 m3,1057.23,27,87.0,7.0%,2.0%
+OIL109,Clyde River,Petrochemical Plant,293225 m3,963.7,24,88.8,5.2%,1.5%
+OIL110,Fort Simpson,Offshore Platform,87265 m3,936.3,30,86.4,4.3%,1.6%
+OIL111,Ponoka County No. 3,Refinery,263122 m3,591.5,19,87.0,6.8%,1.8%
+OIL112,Clearwater County,Petrochemical Plant,208417 m3,839.31,13,89.9,4.6%,1.4%
+OIL113,Regional Municipality of Wood Buffalo,Offshore Platform,79430 m3,712.47,14,95.4,1.0%,0.5%
+OIL114,Lac La Biche County,Storage Terminal,193748 m3,759.84,13,88.8,6.5%,1.8%
+OIL115,Peace River,Pipeline,486 km,793.06,21,98.2,-1.1%,0.5%
+OIL116,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,210829 m3,634.88,13,86.5,7.1%,1.8%
+OIL117,Ponoka County No. 3,Refinery,90042 m3,696.49,16,90.2,3.7%,1.3%
+OIL118,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Offshore Platform,209903 m3,685.85,24,82.3,4.4%,0.5%
+OIL119,Clyde River,Offshore Platform,153320 m3,901.35,22,81.4,11.2%,1.7%
+OIL120,Bonnyville M.D. No. 87,Storage Terminal,190975 m3,673.8,15,90.9,4.5%,1.5%
+OIL121,Dawson City,Refinery,178322 m3,1064.77,23,81.4,10.2%,3.1%
+OIL122,M.D. of Opportunity No. 17,Offshore Platform,246154 m3,1021.74,24,81.2,10.0%,1.1%
+OIL123,Bonnyville M.D. No. 87,Offshore Platform,99708 m3,766.58,20,89.8,3.5%,0.7%
+OIL124,Redwater,Refinery,268335 m3,880.08,21,85.6,5.2%,1.0%
+OIL125,Clyde River; Pond Inlet; Whale Cove,Petrochemical Plant,182079 m3,853.32,20,89.2,5.5%,1.2%
+OIL126,Inuvik,Storage Terminal,253667 m3,837.32,20,90.8,6.7%,0.5%
+OIL127,Strathcona County,Pipeline,71 km,703.97,18,93.5,2.2%,1.0%
+OIL128,Bonnyville,Refinery,61745 m3,786.85,15,79.2,11.3%,2.4%
+OIL129,Fort Simpson,Refinery,293374 m3,1024.37,30,87.1,4.2%,2.1%
+OIL130,Fort Providence; Kakisa,Offshore Platform,244488 m3,585.98,9,82.7,11.0%,2.3%
+OIL131,Whitehorse,Pipeline,330 km,900.48,28,100.0,-3.3%,0.5%
+OIL132,Fort Saskatchewan,Storage Terminal,220182 m3,562.67,11,91.3,6.8%,1.6%
+OIL133,Edmonton,Pipeline,431 km,664.72,22,91.8,1.2%,0.5%
+OIL134,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,210831 m3,912.94,22,84.9,7.2%,1.1%
+OIL135,Fort Providence; Kakisa,Offshore Platform,202876 m3,851.6,23,82.5,9.6%,1.0%
+OIL136,Inuvik,Storage Terminal,98787 m3,809.52,24,87.4,8.3%,1.0%
+OIL137,Ponoka County No. 3,Storage Terminal,106985 m3,599.68,14,97.2,2.7%,0.5%
+OIL138,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Offshore Platform,107660 m3,711.0,23,86.4,7.6%,2.3%
+OIL139,Yellowhead County,Offshore Platform,150734 m3,1063.48,27,93.3,2.0%,0.5%
+OIL140,Inuvik,Storage Terminal,191398 m3,840.91,20,98.7,-2.5%,0.5%
+OIL141,Ponoka County No. 3,Petrochemical Plant,160198 m3,687.4,17,81.8,11.5%,2.0%
+OIL142,Dawson City,Offshore Platform,226572 m3,797.29,19,78.3,11.6%,3.2%
+OIL143,Fort Simpson,Petrochemical Plant,259411 m3,974.76,27,99.4,1.0%,0.5%
+OIL144,Regional Municipality of Wood Buffalo,Storage Terminal,93585 m3,815.32,24,91.8,2.3%,0.5%
+OIL145,Fort Saskatchewan,Petrochemical Plant,134878 m3,949.86,22,93.6,0.1%,0.5%
+OIL146,Bonnyville M.D. No. 87,Petrochemical Plant,226037 m3,335.06,6,86.8,6.3%,1.8%
+OIL147,Clearwater County,Storage Terminal,287697 m3,853.64,19,86.5,3.5%,1.0%
+OIL148,Redwater,Storage Terminal,193660 m3,781.25,17,87.0,6.2%,1.5%
+OIL149,Strathcona County,Storage Terminal,161453 m3,767.31,16,92.4,4.0%,0.5%
+OIL150,Athabasca County,Petrochemical Plant,232958 m3,497.48,11,95.3,3.1%,0.9%
+OIL151,Yellowhead County,Storage Terminal,264266 m3,734.62,17,90.2,3.5%,1.4%
+OIL152,Bonnyville M.D. No. 87,Pipeline,228 km,783.86,22,93.4,5.3%,0.5%
+OIL153,Redwater,Storage Terminal,89062 m3,612.31,17,91.1,3.1%,0.5%
+OIL154,Regional Municipality of Wood Buffalo,Pipeline,360 km,843.49,21,92.8,4.0%,1.1%
+OIL155,Sachs Harbour,Pipeline,351 km,836.13,23,95.4,5.9%,1.2%
+OIL156,Clyde River,Pipeline,218 km,577.67,14,90.0,5.6%,1.0%
+OIL157,Kugluktuk,Offshore Platform,246037 m3,957.98,23,79.1,8.7%,2.6%
+OIL158,Lac La Biche County,Petrochemical Plant,258786 m3,507.59,10,78.4,9.5%,0.7%
+OIL159,Athabasca County,Offshore Platform,257815 m3,1017.93,30,76.0,10.6%,1.6%
+OIL160,Lutsel K’e,Petrochemical Plant,51177 m3,1258.19,27,87.7,1.3%,0.5%
+OIL161,Edmonton,Refinery,208059 m3,951.79,25,88.4,5.7%,0.5%
+OIL162,Regional Municipality of Wood Buffalo,Petrochemical Plant,231187 m3,910.61,20,83.1,10.4%,1.9%
+OIL163,Peace River,Refinery,235763 m3,656.63,21,83.8,8.2%,2.0%
+OIL164,Clyde River; Pond Inlet; Whale Cove,Pipeline,475 km,902.71,20,91.4,3.4%,1.3%
+OIL165,Yellowhead County,Offshore Platform,138204 m3,1041.23,27,83.9,8.9%,0.6%
+OIL166,Strathcona County,Pipeline,203 km,1149.92,26,87.8,7.5%,2.0%
+OIL167,Clearwater County,Refinery,284386 m3,632.93,22,83.2,9.0%,2.0%
+OIL168,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Petrochemical Plant,66014 m3,890.71,20,84.4,5.1%,1.5%
+OIL169,Clearwater County,Pipeline,307 km,933.4,19,89.5,9.0%,2.2%
+OIL170,Kugluktuk,Refinery,83893 m3,696.03,13,90.3,2.6%,0.5%
+OIL171,Kugluktuk,Petrochemical Plant,122240 m3,898.68,25,87.8,4.9%,1.6%
+OIL172,Redwater,Petrochemical Plant,95113 m3,974.12,28,82.2,12.2%,2.6%
+OIL173,Sachs Harbour,Storage Terminal,145673 m3,601.86,17,86.3,7.0%,1.0%
+OIL174,Redwater,Storage Terminal,191826 m3,1047.22,23,88.7,8.1%,1.7%
+OIL175,Fort Providence; Kakisa,Refinery,141878 m3,859.61,24,83.0,8.5%,0.8%
+OIL176,Ponoka County No. 3,Refinery,265400 m3,718.44,12,90.0,2.8%,0.5%
+OIL177,Bonnyville,Offshore Platform,140517 m3,850.26,21,83.5,9.2%,2.7%
+OIL178,Whitehorse,Refinery,113133 m3,780.22,17,89.7,6.3%,0.8%
+OIL179,Whitehorse,Refinery,237226 m3,592.68,19,88.2,6.2%,1.6%
+OIL180,Edmonton,Petrochemical Plant,164099 m3,963.55,17,87.3,5.6%,0.5%
+OIL181,Regional Municipality of Wood Buffalo,Storage Terminal,197992 m3,778.39,19,88.4,6.4%,1.8%
+OIL182,Athabasca County,Refinery,284555 m3,708.21,14,81.7,6.5%,1.1%
+OIL183,Athabasca County,Refinery,227404 m3,500.82,15,83.1,7.9%,0.6%
+OIL184,Lac La Biche County,Storage Terminal,91568 m3,970.89,25,90.0,5.9%,1.5%
+OIL185,Fort Simpson,Storage Terminal,62411 m3,894.12,25,88.3,8.5%,2.2%
+OIL186,Inuvik,Petrochemical Plant,285516 m3,365.24,7,76.6,10.6%,2.4%
+OIL187,M.D. of Opportunity No. 17,Petrochemical Plant,203812 m3,883.25,25,86.5,5.9%,0.9%
+OIL188,Bonnyville,Petrochemical Plant,139881 m3,1243.68,33,82.0,9.9%,3.3%
+OIL189,Strathcona County,Petrochemical Plant,245113 m3,666.19,20,84.6,11.4%,1.7%
+OIL190,Athabasca County,Refinery,296535 m3,984.27,25,91.2,3.1%,0.7%
+OIL191,Dawson City,Petrochemical Plant,80111 m3,793.98,21,90.2,7.4%,0.7%
+OIL192,Edmonton,Storage Terminal,190938 m3,837.15,19,94.8,5.1%,0.5%
+OIL193,Sachs Harbour,Refinery,92533 m3,805.96,18,88.7,6.1%,0.8%
+OIL194,Clearwater County,Refinery,242630 m3,776.52,17,91.7,4.3%,1.1%
+OIL195,Peace River,Storage Terminal,145457 m3,727.01,16,85.8,3.2%,0.9%
+OIL196,Fort Simpson,Petrochemical Plant,126971 m3,829.54,21,86.3,4.2%,1.6%
+OIL197,Bonnyville,Pipeline,317 km,766.58,20,91.0,7.7%,2.5%
+OIL198,Redwater,Offshore Platform,275535 m3,946.89,25,85.1,7.3%,1.7%
+OIL199,Fort Saskatchewan,Offshore Platform,227558 m3,898.89,25,94.2,5.1%,1.3%
+OIL200,Lac La Biche County,Storage Terminal,59496 m3,447.85,9,91.9,3.5%,0.5%
+OIL201,Bonnyville M.D. No. 87,Offshore Platform,263440 m3,628.9,14,86.4,8.4%,1.7%
+OIL202,Regional Municipality of Wood Buffalo,Pipeline,161 km,916.78,24,97.8,-1.8%,0.5%
+OIL203,Bonnyville,Offshore Platform,296884 m3,742.48,16,89.8,6.3%,1.1%
+OIL204,Inuvik,Petrochemical Plant,130073 m3,624.99,11,92.1,2.8%,1.9%
+OIL205,Clyde River; Pond Inlet; Whale Cove,Petrochemical Plant,169119 m3,946.85,21,86.9,5.2%,1.0%
+OIL206,Dawson City,Pipeline,368 km,813.12,24,89.4,7.2%,1.8%
+OIL207,Peace River,Petrochemical Plant,276019 m3,872.23,20,84.4,5.2%,0.9%
+OIL208,Clearwater County,Storage Terminal,71621 m3,939.65,20,97.4,3.7%,0.7%
+OIL209,Fort Providence; Kakisa,Storage Terminal,238490 m3,860.76,17,92.9,6.9%,1.7%
+OIL210,Dawson City,Petrochemical Plant,242402 m3,839.46,20,80.6,10.7%,1.8%
+OIL211,Bonnyville M.D. No. 87,Storage Terminal,295317 m3,702.65,18,88.9,3.6%,0.9%
+OIL212,Clyde River; Pond Inlet; Whale Cove,Storage Terminal,218553 m3,796.34,17,86.4,7.5%,1.0%
+OIL213,Peace River,Refinery,57896 m3,694.78,17,88.4,3.5%,1.0%
+OIL214,Fort Saskatchewan,Offshore Platform,116707 m3,743.73,22,83.5,9.3%,2.5%
+OIL215,Lutsel K’e,Refinery,78228 m3,577.92,16,82.7,13.5%,3.2%
+OIL216,Clyde River,Pipeline,227 km,1032.95,24,98.5,1.3%,0.5%
+OIL217,Clyde River; Pond Inlet; Whale Cove,Petrochemical Plant,279948 m3,885.76,24,87.7,5.4%,1.1%
+OIL218,M.D. of Opportunity No. 17,Refinery,63140 m3,634.2,17,84.5,7.3%,1.9%
+OIL219,Dawson City,Petrochemical Plant,119286 m3,657.85,17,92.6,3.8%,0.5%
+OIL220,Fort Simpson,Refinery,113870 m3,640.16,18,91.2,2.5%,0.6%
+OIL221,Clyde River,Refinery,299627 m3,787.79,17,88.3,7.6%,1.7%
+OIL222,Clearwater County,Offshore Platform,260097 m3,649.64,16,81.5,8.2%,0.7%
+OIL223,Clyde River,Storage Terminal,107828 m3,1037.63,28,93.1,3.1%,0.9%
+OIL224,Redwater,Refinery,265814 m3,630.73,11,93.2,8.5%,1.0%
+OIL225,Sachs Harbour,Petrochemical Plant,179951 m3,608.98,16,95.3,0.2%,0.5%
+OIL226,Edmonton,Pipeline,112 km,848.25,18,91.8,2.3%,1.3%
+OIL227,Bonnyville,Offshore Platform,189076 m3,1037.48,34,87.3,7.0%,0.5%
+OIL228,Clyde River,Storage Terminal,291125 m3,919.29,28,91.4,3.7%,0.5%
+OIL229,Redwater,Pipeline,262 km,947.35,22,92.3,5.9%,0.6%
+OIL230,Regional Municipality of Wood Buffalo,Pipeline,356 km,1128.21,33,90.7,7.1%,2.0%
+OIL231,Bonnyville M.D. No. 87,Storage Terminal,199130 m3,704.6,20,88.7,4.3%,0.5%
+OIL232,Fort Simpson,Storage Terminal,236368 m3,900.76,21,93.1,6.2%,1.8%
+OIL233,Fort Providence; Kakisa,Petrochemical Plant,252978 m3,699.37,22,88.4,6.2%,1.0%
+OIL234,Fort Providence; Kakisa,Offshore Platform,72746 m3,949.31,21,85.6,3.8%,0.5%
+OIL235,Sachs Harbour,Offshore Platform,227810 m3,692.93,17,86.3,7.2%,0.9%
+OIL236,Dawson City,Offshore Platform,289017 m3,950.12,26,87.0,6.6%,1.5%
+OIL237,Bonnyville,Pipeline,324 km,873.46,27,91.1,3.8%,0.5%
+OIL238,Athabasca County,Petrochemical Plant,297522 m3,740.75,21,83.5,6.9%,2.0%
+OIL239,Regional Municipality of Wood Buffalo,Pipeline,174 km,980.49,25,94.9,1.3%,0.5%
+OIL240,Bonnyville M.D. No. 87,Storage Terminal,94900 m3,1032.38,23,91.0,6.5%,2.0%
+OIL241,M.D. of Opportunity No. 17,Petrochemical Plant,279718 m3,437.99,9,92.9,2.8%,0.5%
+OIL242,Sachs Harbour,Petrochemical Plant,139906 m3,990.57,29,85.9,9.9%,1.8%
+OIL243,Kugluktuk,Storage Terminal,295676 m3,758.47,14,93.6,2.8%,0.5%
+OIL244,Sachs Harbour,Offshore Platform,135371 m3,706.09,10,78.9,15.1%,2.7%
+OIL245,Peace River,Petrochemical Plant,244387 m3,816.49,16,85.8,5.6%,1.7%
+OIL246,Athabasca County,Pipeline,314 km,1346.17,32,95.4,2.6%,1.4%
+OIL247,Bonnyville,Pipeline,88 km,1180.24,29,89.2,2.4%,0.9%
+OIL248,Lutsel K’e,Petrochemical Plant,290907 m3,763.7,15,91.1,5.8%,0.8%
+OIL249,Ponoka County No. 3,Pipeline,224 km,724.6,20,96.3,3.0%,0.8%
+OIL250,Sachs Harbour,Storage Terminal,276416 m3,636.28,17,89.3,7.8%,1.9%
+OIL251,Athabasca County,Petrochemical Plant,124637 m3,941.64,24,90.8,5.2%,1.3%
+OIL252,Sachs Harbour,Refinery,260000 m3,651.04,17,95.6,0.5%,0.5%
+OIL253,Bonnyville M.D. No. 87,Petrochemical Plant,218509 m3,408.12,12,90.4,7.4%,1.7%
+OIL254,Whitehorse,Petrochemical Plant,271558 m3,1155.06,32,87.5,3.4%,0.8%
+OIL255,Whitehorse,Storage Terminal,233467 m3,773.14,22,93.2,-0.1%,0.8%
+OIL256,M.D. of Opportunity No. 17,Refinery,269575 m3,955.91,25,83.9,7.7%,1.8%
+OIL257,Fort Saskatchewan,Storage Terminal,297202 m3,687.57,17,83.3,6.7%,0.8%
+OIL258,Fort Simpson,Storage Terminal,295221 m3,1054.5,32,88.2,5.8%,0.5%
+OIL259,Whitehorse,Offshore Platform,251260 m3,712.72,17,84.6,7.0%,0.5%
+OIL260,Bonnyville M.D. No. 87,Refinery,265164 m3,729.0,14,82.2,3.7%,0.5%
+OIL261,Clyde River,Pipeline,334 km,492.07,8,94.1,-1.1%,0.7%
+OIL262,Inuvik,Petrochemical Plant,186570 m3,1246.26,30,91.1,5.5%,1.2%
+OIL263,Lutsel K’e,Storage Terminal,272740 m3,812.22,22,93.8,-0.5%,1.0%
+OIL264,Athabasca County,Storage Terminal,244994 m3,616.12,18,93.4,1.2%,0.5%
+OIL265,Dawson City,Petrochemical Plant,239414 m3,706.94,17,97.6,-1.8%,0.5%
+OIL266,Redwater,Petrochemical Plant,94789 m3,1153.82,28,88.1,4.6%,1.7%
+OIL267,Redwater,Pipeline,420 km,875.42,22,96.5,1.6%,0.5%
+OIL268,M.D. of Opportunity No. 17,Offshore Platform,243226 m3,631.45,15,87.7,7.2%,1.5%
+OIL269,Dawson City,Storage Terminal,91862 m3,1033.16,25,89.5,7.3%,1.8%
+OIL270,Peace River,Refinery,208175 m3,838.95,21,92.3,6.7%,2.4%
+OIL271,Clyde River,Offshore Platform,99847 m3,1089.39,28,89.8,2.2%,0.5%
+OIL272,M.D. of Opportunity No. 17,Storage Terminal,144754 m3,897.19,20,90.8,3.0%,0.5%
+OIL273,Fort Providence; Kakisa,Offshore Platform,69810 m3,1221.89,33,91.9,5.4%,0.5%
+OIL274,Regional Municipality of Wood Buffalo,Refinery,237771 m3,867.23,21,88.3,5.5%,0.5%
+OIL275,Regional Municipality of Wood Buffalo,Offshore Platform,118487 m3,642.21,15,89.6,5.8%,1.0%
+OIL276,Clearwater County,Pipeline,232 km,523.43,6,92.7,7.3%,1.5%
+OIL277,Fort Saskatchewan,Refinery,154859 m3,646.6,13,90.1,1.5%,0.5%
+OIL278,Redwater,Refinery,218785 m3,885.49,24,91.2,3.1%,0.5%
+OIL279,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,297644 m3,734.42,19,91.3,2.6%,0.5%
+OIL280,Dawson City,Pipeline,460 km,644.49,17,96.2,-1.9%,0.5%
+OIL281,Dawson City,Petrochemical Plant,290016 m3,786.89,26,93.3,0.7%,0.7%
+OIL282,M.D. of Opportunity No. 17,Storage Terminal,148826 m3,1047.23,26,90.8,3.4%,0.7%
+OIL283,Redwater,Petrochemical Plant,175737 m3,799.3,17,90.9,3.9%,0.9%
+OIL284,Whitehorse,Storage Terminal,104120 m3,633.23,20,88.7,4.9%,1.4%
+OIL285,Athabasca County,Pipeline,149 km,994.19,30,89.0,4.7%,0.6%
+OIL286,Redwater,Storage Terminal,266212 m3,1025.09,25,97.9,-0.6%,0.5%
+OIL287,Ponoka County No. 3,Pipeline,98 km,808.18,17,95.0,1.5%,0.5%
+OIL288,Inuvik,Pipeline,405 km,573.24,12,96.8,1.1%,0.5%
+OIL289,Clearwater County,Storage Terminal,182473 m3,1203.58,31,94.2,1.5%,0.6%
+OIL290,Inuvik,Petrochemical Plant,178681 m3,803.92,22,89.4,4.6%,0.5%
+OIL291,Lutsel K’e,Pipeline,82 km,630.68,18,95.8,5.9%,1.6%
+OIL292,Kugluktuk,Offshore Platform,202008 m3,1198.25,34,85.7,4.0%,1.0%
+OIL293,Kugluktuk,Offshore Platform,275180 m3,651.37,14,91.7,3.9%,0.8%
+OIL294,Yellowhead County,Storage Terminal,99429 m3,846.14,17,87.5,5.5%,1.1%
+OIL295,Strathcona County,Offshore Platform,270460 m3,980.69,25,86.8,4.5%,1.1%
+OIL296,Inuvik,Storage Terminal,289160 m3,883.29,23,92.5,1.6%,0.5%
+OIL297,Regional Municipality of Wood Buffalo,Petrochemical Plant,202697 m3,694.01,18,90.4,3.6%,0.5%
+OIL298,Whitehorse,Petrochemical Plant,93527 m3,1106.69,29,88.5,5.8%,1.0%
+OIL299,Clearwater County,Refinery,286562 m3,698.87,16,90.1,6.5%,0.7%
+OIL300,Peace River,Refinery,100081 m3,1116.65,26,90.0,8.6%,1.2%
+OIL301,M.D. of Opportunity No. 17,Offshore Platform,202614 m3,912.46,24,89.6,5.9%,2.0%
+OIL302,Athabasca County,Petrochemical Plant,178727 m3,376.67,8,88.9,8.3%,1.3%
+OIL303,Clearwater County,Petrochemical Plant,286994 m3,1499.18,33,96.0,1.4%,0.5%
+OIL304,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,95740 m3,715.49,19,81.7,11.9%,1.1%
+OIL305,Ponoka County No. 3,Storage Terminal,299459 m3,639.21,18,85.7,8.6%,1.8%
+OIL306,Lutsel K’e,Offshore Platform,241051 m3,1140.41,26,88.8,7.2%,1.9%
+OIL307,Sachs Harbour,Petrochemical Plant,111844 m3,932.4,25,87.5,8.2%,0.7%
+OIL308,Peace River,Storage Terminal,291133 m3,594.0,15,92.8,6.1%,1.4%
+OIL309,Kugluktuk,Refinery,228140 m3,936.04,27,80.9,10.2%,2.2%
+OIL310,Bonnyville M.D. No. 87,Pipeline,187 km,288.33,6,89.6,5.1%,1.3%
+OIL311,Inuvik,Storage Terminal,258859 m3,1021.4,23,85.7,10.8%,3.1%
+OIL312,Bonnyville M.D. No. 87,Pipeline,161 km,847.27,20,93.8,4.7%,1.1%
+OIL313,Lac La Biche County,Petrochemical Plant,271493 m3,1147.78,32,87.3,4.7%,1.4%
+OIL314,Clyde River,Pipeline,188 km,686.12,16,100.0,1.0%,0.5%
+OIL315,Lutsel K’e,Petrochemical Plant,212917 m3,942.61,26,82.2,8.5%,0.9%
+OIL316,Regional Municipality of Wood Buffalo,Offshore Platform,116216 m3,988.45,23,80.6,10.6%,3.0%
+OIL317,Yellowhead County,Petrochemical Plant,84998 m3,423.91,12,92.2,-2.9%,0.5%
+OIL318,Edmonton,Refinery,76400 m3,859.97,21,89.8,6.6%,1.2%
+OIL319,Clearwater County,Pipeline,482 km,333.43,12,91.3,0.5%,0.5%
+OIL320,Kugluktuk,Storage Terminal,77798 m3,845.99,24,87.8,4.5%,0.7%
+OIL321,Bonnyville,Offshore Platform,192961 m3,813.95,18,81.0,7.3%,0.5%
+OIL322,Clearwater County,Storage Terminal,253597 m3,1022.54,21,92.4,2.5%,0.5%
+OIL323,Inuvik,Petrochemical Plant,172746 m3,768.82,18,87.6,7.2%,1.1%
+OIL324,Dawson City,Petrochemical Plant,284231 m3,904.19,23,85.9,7.8%,1.7%
+OIL325,Fort Saskatchewan,Refinery,178467 m3,430.76,8,82.0,7.7%,0.5%
+OIL326,Clyde River; Pond Inlet; Whale Cove,Refinery,138229 m3,774.39,20,89.6,5.0%,0.7%
+OIL327,Redwater,Offshore Platform,275875 m3,822.92,18,90.5,6.7%,0.5%
+OIL328,Peace River,Pipeline,492 km,1227.31,33,85.9,6.6%,1.6%
+OIL329,Regional Municipality of Wood Buffalo,Pipeline,333 km,523.51,18,92.3,5.3%,1.9%
+OIL330,Edmonton,Refinery,171759 m3,621.09,13,87.4,6.9%,1.4%
+OIL331,Yellowhead County,Storage Terminal,119212 m3,236.01,8,97.9,2.1%,0.8%
+OIL332,Lutsel K’e,Storage Terminal,104318 m3,574.31,14,89.0,5.0%,1.3%
+OIL333,M.D. of Opportunity No. 17,Offshore Platform,117087 m3,881.58,23,79.4,10.7%,2.8%
+OIL334,Edmonton,Offshore Platform,271677 m3,977.46,26,84.2,10.0%,2.7%
+OIL335,M.D. of Opportunity No. 17,Petrochemical Plant,136664 m3,999.87,24,91.2,5.3%,0.5%
+OIL336,Yellowhead County,Storage Terminal,123233 m3,822.72,19,93.4,2.5%,0.5%
+OIL337,Lac La Biche County,Petrochemical Plant,235194 m3,958.63,24,88.0,5.2%,0.5%
+OIL338,Fort Providence; Kakisa,Petrochemical Plant,55103 m3,962.64,29,87.3,8.0%,1.8%
+OIL339,Kugluktuk,Petrochemical Plant,178128 m3,582.97,12,98.8,3.1%,1.1%
+OIL340,Clearwater County,Petrochemical Plant,292998 m3,706.64,20,84.7,8.8%,2.2%
+OIL341,Lac La Biche County,Pipeline,418 km,754.04,16,92.7,9.6%,1.5%
+OIL342,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Storage Terminal,271135 m3,969.4,23,96.4,-0.4%,0.5%
+OIL343,Ponoka County No. 3,Storage Terminal,243006 m3,247.79,6,92.5,4.6%,0.6%
+OIL344,Inuvik,Pipeline,463 km,992.65,24,93.7,1.6%,0.5%
+OIL345,Clyde River,Refinery,160107 m3,620.34,14,84.7,5.9%,1.2%
+OIL346,Athabasca County,Petrochemical Plant,58328 m3,1111.21,23,79.5,14.0%,3.6%
+OIL347,M.D. of Opportunity No. 17,Petrochemical Plant,272129 m3,906.04,17,85.6,7.3%,2.1%
+OIL348,Lac La Biche County,Refinery,121696 m3,1186.29,28,82.9,8.3%,1.8%
+OIL349,Lutsel K’e,Pipeline,290 km,1005.54,26,88.4,9.2%,2.9%
+OIL350,Peace River,Pipeline,359 km,611.87,16,99.0,1.2%,0.5%
+OIL351,Dawson City,Storage Terminal,93954 m3,853.26,16,95.3,2.4%,0.5%
+OIL352,Edmonton,Pipeline,281 km,797.9,16,91.7,5.5%,1.4%
+OIL353,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Petrochemical Plant,218017 m3,1040.02,25,79.5,11.5%,1.0%
+OIL354,Bonnyville,Storage Terminal,72010 m3,505.82,11,89.5,6.4%,1.0%
+OIL355,Regional Municipality of Wood Buffalo,Pipeline,442 km,853.71,26,97.6,2.0%,0.5%
+OIL356,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Offshore Platform,113972 m3,1082.09,29,81.3,12.5%,1.6%
+OIL357,Fort Providence; Kakisa,Petrochemical Plant,258313 m3,839.46,22,93.8,5.2%,2.4%
+OIL358,Strathcona County,Storage Terminal,240121 m3,1021.99,30,87.4,9.0%,0.5%
+OIL359,Ponoka County No. 3,Offshore Platform,60625 m3,970.13,24,79.5,10.3%,0.7%
+OIL360,Bonnyville,Refinery,57485 m3,1103.86,26,91.4,2.1%,1.0%
+OIL361,M.D. of Opportunity No. 17,Petrochemical Plant,269103 m3,919.45,20,88.9,2.8%,1.0%
+OIL362,Kugluktuk,Storage Terminal,230217 m3,907.44,20,95.7,1.2%,0.5%
+OIL363,Fort Providence; Kakisa,Petrochemical Plant,201956 m3,996.02,26,85.6,10.0%,2.3%
+OIL364,Lac La Biche County,Petrochemical Plant,209973 m3,820.76,21,85.5,8.4%,2.9%
+OIL365,Fort Simpson,Storage Terminal,222330 m3,1289.89,29,85.7,4.8%,1.3%
+OIL366,Peace River,Petrochemical Plant,151154 m3,792.62,21,88.9,4.0%,0.6%
+OIL367,Whitehorse,Offshore Platform,227359 m3,449.73,7,82.3,8.5%,2.4%
+OIL368,Athabasca County,Pipeline,325 km,1033.96,29,92.8,0.6%,0.5%
+OIL369,Bonnyville M.D. No. 87,Offshore Platform,72164 m3,925.1,26,82.6,8.9%,2.3%
+OIL370,Fort Saskatchewan,Offshore Platform,272123 m3,1034.22,32,85.0,9.5%,2.1%
+OIL371,Dawson City,Pipeline,113 km,728.99,22,86.7,11.1%,3.3%
+OIL372,M.D. of Opportunity No. 17,Offshore Platform,284538 m3,719.86,12,76.8,12.8%,3.0%
+OIL373,Ponoka County No. 3,Petrochemical Plant,166545 m3,469.05,13,87.6,7.7%,1.5%
+OIL374,Sachs Harbour,Petrochemical Plant,291959 m3,769.83,20,86.6,3.9%,1.2%
+OIL375,Athabasca County,Petrochemical Plant,272138 m3,766.71,20,83.4,10.3%,2.8%
+OIL376,Bonnyville,Pipeline,313 km,964.07,23,88.5,1.7%,0.5%
+OIL377,Strathcona County,Petrochemical Plant,137954 m3,1086.89,28,82.2,8.3%,1.6%
+OIL378,Fort Simpson,Offshore Platform,107124 m3,645.8,11,83.1,7.2%,1.7%
+OIL379,Clyde River; Pond Inlet; Whale Cove,Storage Terminal,132569 m3,646.0,12,88.2,6.3%,0.7%
+OIL380,Fort Providence; Kakisa,Refinery,177006 m3,866.41,23,80.9,8.8%,2.1%
+OIL381,Sachs Harbour,Offshore Platform,170747 m3,780.91,14,84.7,6.0%,0.5%
+OIL382,Ponoka County No. 3,Pipeline,225 km,335.61,9,92.1,1.8%,0.5%
+OIL383,Bonnyville,Petrochemical Plant,93856 m3,803.31,19,95.4,1.5%,0.9%
+OIL384,Clearwater County,Offshore Platform,201599 m3,1058.1,21,81.3,12.5%,1.4%
+OIL385,Ponoka County No. 3,Petrochemical Plant,173728 m3,808.59,24,87.4,9.8%,2.9%
+OIL386,Sachs Harbour,Pipeline,382 km,783.71,17,93.6,0.6%,0.5%
+OIL387,Whitehorse,Petrochemical Plant,56901 m3,690.35,20,82.6,9.1%,1.3%
+OIL388,Redwater,Pipeline,364 km,1039.03,27,93.9,4.1%,0.5%
+OIL389,Lutsel K’e,Refinery,227747 m3,632.28,13,90.1,7.4%,1.8%
+OIL390,Yellowhead County,Petrochemical Plant,163936 m3,563.22,11,83.9,9.5%,2.5%
+OIL391,Ponoka County No. 3,Petrochemical Plant,272704 m3,948.43,27,92.5,5.0%,1.2%
+OIL392,Fort Saskatchewan,Petrochemical Plant,277565 m3,833.74,20,88.5,6.0%,0.5%
+OIL393,Clyde River,Storage Terminal,167449 m3,713.42,19,84.3,9.5%,2.9%
+OIL394,Peace River,Pipeline,337 km,951.48,25,88.4,4.2%,0.5%
+OIL395,Sachs Harbour,Refinery,66061 m3,819.83,19,83.4,9.5%,2.1%
+OIL396,Clyde River; Pond Inlet; Whale Cove,Refinery,292277 m3,842.99,26,88.6,4.3%,0.5%
+OIL397,Dawson City,Refinery,141198 m3,823.99,19,94.8,4.8%,1.1%
+OIL398,Bonnyville M.D. No. 87,Offshore Platform,237635 m3,501.55,10,88.8,7.4%,2.9%
+OIL399,Whitehorse,Offshore Platform,251499 m3,635.96,12,83.1,6.1%,1.9%
+OIL400,Clyde River; Pond Inlet; Whale Cove,Petrochemical Plant,155982 m3,570.46,9,87.0,10.7%,2.5%
+OIL401,Sachs Harbour,Refinery,81954 m3,610.22,20,91.7,3.7%,0.9%
+OIL402,Bonnyville,Pipeline,295 km,918.79,21,90.0,3.3%,0.5%
+OIL403,Inuvik,Petrochemical Plant,56589 m3,593.96,15,88.3,6.1%,1.2%
+OIL404,Clyde River; Pond Inlet; Whale Cove,Pipeline,427 km,1074.41,30,92.4,6.3%,1.0%
+OIL405,Fort Saskatchewan,Petrochemical Plant,299819 m3,813.36,24,84.0,11.3%,2.8%
+OIL406,Ponoka County No. 3,Petrochemical Plant,279686 m3,656.9,14,86.0,4.2%,1.4%
+OIL407,Regional Municipality of Wood Buffalo,Pipeline,409 km,814.41,20,88.2,6.1%,0.5%
+OIL408,Inuvik,Storage Terminal,250569 m3,916.45,21,93.0,3.5%,0.5%
+OIL409,Bonnyville M.D. No. 87,Pipeline,370 km,883.2,20,93.1,4.3%,0.6%
+OIL410,Yellowhead County,Pipeline,66 km,837.94,17,92.8,2.7%,1.3%
+OIL411,Whitehorse,Petrochemical Plant,292318 m3,717.71,21,79.5,9.5%,2.9%
+OIL412,Yellowhead County,Petrochemical Plant,198441 m3,1191.43,26,85.8,7.4%,1.6%
+OIL413,Edmonton,Petrochemical Plant,241366 m3,607.45,15,89.4,5.6%,1.2%
+OIL414,Kugluktuk,Offshore Platform,90863 m3,673.94,15,77.6,14.4%,2.8%
+OIL415,Edmonton,Petrochemical Plant,220863 m3,658.88,14,85.2,7.5%,1.9%
+OIL416,Ponoka County No. 3,Refinery,194670 m3,692.37,16,85.5,9.0%,0.7%
+OIL417,Redwater,Offshore Platform,218038 m3,1074.08,31,90.9,3.4%,0.5%
+OIL418,Regional Municipality of Wood Buffalo,Offshore Platform,221389 m3,1163.61,30,84.0,10.4%,2.0%
+OIL419,Kugluktuk,Petrochemical Plant,143078 m3,231.3,6,88.2,2.7%,0.5%
+OIL420,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,128270 m3,840.6,26,82.2,11.5%,2.4%
+OIL421,Inuvik,Pipeline,199 km,658.62,19,98.6,2.8%,0.9%
+OIL422,Yellowhead County,Petrochemical Plant,163710 m3,569.63,17,87.0,5.6%,1.4%
+OIL423,Yellowhead County,Pipeline,123 km,631.91,15,87.5,6.9%,1.3%
+OIL424,Redwater,Pipeline,347 km,728.39,18,91.9,4.9%,1.8%
+OIL425,Clearwater County,Storage Terminal,251194 m3,782.15,19,83.1,11.4%,2.5%
+OIL426,Yellowhead County,Storage Terminal,199515 m3,868.19,18,88.8,4.2%,0.5%
+OIL427,Sachs Harbour,Petrochemical Plant,99241 m3,777.87,17,90.4,4.1%,0.8%
+OIL428,Ponoka County No. 3,Storage Terminal,233419 m3,644.99,19,93.7,7.0%,1.4%
+OIL429,Ponoka County No. 3,Refinery,184164 m3,921.69,25,87.3,6.0%,0.5%
+OIL430,Peace River,Refinery,220948 m3,449.63,12,92.8,5.8%,0.6%
+OIL431,Inuvik,Petrochemical Plant,178867 m3,599.56,13,81.1,8.4%,2.2%
+OIL432,Kugluktuk,Refinery,133793 m3,994.6,25,86.5,5.1%,0.6%
+OIL433,Redwater,Refinery,277916 m3,921.04,26,92.2,4.3%,1.8%
+OIL434,Fort Simpson,Refinery,295889 m3,676.47,22,92.4,8.3%,0.9%
+OIL435,Athabasca County,Pipeline,444 km,1093.92,28,94.7,1.2%,0.6%
+OIL436,Redwater,Offshore Platform,183609 m3,890.25,24,84.8,9.9%,1.6%
+OIL437,Yellowhead County,Petrochemical Plant,198725 m3,856.75,18,83.6,10.7%,2.0%
+OIL438,Redwater,Refinery,95256 m3,906.7,26,89.9,4.9%,1.9%
+OIL439,Dawson City,Storage Terminal,98803 m3,690.83,15,90.9,4.7%,0.6%
+OIL440,Lac La Biche County,Petrochemical Plant,299737 m3,987.58,28,87.7,6.7%,1.7%
+OIL441,Inuvik,Storage Terminal,129267 m3,976.22,27,93.5,2.3%,0.5%
+OIL442,Ponoka County No. 3,Offshore Platform,59615 m3,901.43,24,80.4,12.2%,2.1%
+OIL443,Fort Providence; Kakisa,Storage Terminal,239327 m3,783.32,10,92.7,3.0%,0.5%
+OIL444,Athabasca County,Pipeline,294 km,587.42,12,97.4,3.6%,1.1%
+OIL445,Whitehorse,Petrochemical Plant,294936 m3,1066.44,27,93.2,1.2%,0.5%
+OIL446,M.D. of Opportunity No. 17,Storage Terminal,114427 m3,530.83,13,91.1,6.6%,2.0%
+OIL447,Edmonton,Offshore Platform,199696 m3,747.78,13,84.5,3.7%,1.8%
+OIL448,M.D. of Opportunity No. 17,Offshore Platform,228363 m3,957.26,25,80.9,11.8%,3.5%
+OIL449,Kugluktuk,Offshore Platform,136005 m3,935.9,27,82.0,11.1%,1.9%
+OIL450,Sachs Harbour,Storage Terminal,159767 m3,940.84,31,87.4,4.6%,0.6%
+OIL451,Lac La Biche County,Offshore Platform,120411 m3,649.86,16,84.7,7.3%,1.2%
+OIL452,Fort Providence; Kakisa,Storage Terminal,185909 m3,835.73,18,91.7,4.2%,0.7%
+OIL453,Yellowhead County,Offshore Platform,138422 m3,526.84,13,87.0,10.1%,1.5%
+OIL454,Clearwater County,Petrochemical Plant,136133 m3,768.89,21,87.7,3.8%,1.2%
+OIL455,Clyde River,Petrochemical Plant,157286 m3,954.17,19,91.3,3.3%,0.6%
+OIL456,Whitehorse,Storage Terminal,85932 m3,655.59,16,94.2,5.9%,1.9%
+OIL457,Fort Providence; Kakisa,Pipeline,56 km,880.1,22,91.7,1.8%,0.5%
+OIL458,Fort Simpson,Pipeline,50 km,1098.08,29,88.3,6.1%,1.3%
+OIL459,Kugluktuk,Pipeline,120 km,999.17,26,84.6,9.5%,2.1%
+OIL460,Edmonton,Pipeline,195 km,815.63,24,92.7,6.4%,0.5%
+OIL461,Edmonton,Refinery,74495 m3,1040.5,27,87.8,4.4%,1.2%
+OIL462,Lutsel K’e,Petrochemical Plant,123984 m3,913.95,20,80.5,12.3%,2.6%
+OIL463,Fort Saskatchewan,Petrochemical Plant,293229 m3,755.51,25,84.3,7.0%,0.7%
+OIL464,Inuvik,Refinery,199762 m3,1105.86,27,82.6,9.4%,2.6%
+OIL465,Athabasca County,Storage Terminal,91850 m3,444.8,14,91.0,7.3%,2.6%
+OIL466,Clearwater County,Petrochemical Plant,125318 m3,914.74,25,85.4,6.7%,0.5%
+OIL467,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,491 km,1080.08,29,85.8,7.4%,1.7%
+OIL468,Yellowhead County,Offshore Platform,96418 m3,639.01,13,88.3,2.5%,1.4%
+OIL469,Dawson City,Offshore Platform,190167 m3,634.21,14,84.1,7.9%,1.4%
+OIL470,Whitehorse,Pipeline,365 km,1350.14,32,90.7,-0.6%,0.6%
+OIL471,Peace River,Pipeline,355 km,781.72,19,92.2,1.8%,0.5%
+OIL472,Fort Saskatchewan,Petrochemical Plant,115066 m3,826.2,18,87.4,4.1%,1.7%
+OIL473,Sachs Harbour,Storage Terminal,175659 m3,597.88,13,96.1,3.3%,0.5%
+OIL474,Clearwater County,Storage Terminal,116677 m3,686.77,13,92.0,2.1%,0.5%
+OIL475,Redwater,Petrochemical Plant,145345 m3,1093.29,31,85.2,9.2%,3.3%
+OIL476,Athabasca County,Offshore Platform,158369 m3,764.24,17,88.3,4.3%,1.6%
+OIL477,Fort Simpson,Petrochemical Plant,102349 m3,831.94,20,86.0,4.9%,1.3%
+OIL478,Inuvik,Storage Terminal,226111 m3,301.35,6,97.5,0.8%,0.5%
+OIL479,Dawson City,Offshore Platform,230074 m3,433.66,8,91.0,8.2%,2.4%
+OIL480,Ponoka County No. 3,Storage Terminal,153889 m3,528.36,13,83.3,8.4%,1.3%
+OIL481,Lutsel K’e,Petrochemical Plant,262792 m3,931.39,26,86.0,11.9%,1.2%
+OIL482,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Storage Terminal,204536 m3,486.43,10,86.1,8.6%,1.2%
+OIL483,Fort Providence; Kakisa,Petrochemical Plant,157594 m3,928.11,24,86.5,4.2%,0.9%
+OIL484,Clyde River; Pond Inlet; Whale Cove,Petrochemical Plant,100210 m3,1224.11,30,87.2,8.3%,1.9%
+OIL485,Dawson City,Offshore Platform,106344 m3,864.16,22,79.9,10.6%,1.3%
+OIL486,Regional Municipality of Wood Buffalo,Pipeline,430 km,650.16,21,98.7,1.8%,0.5%
+OIL487,Clearwater County,Storage Terminal,136971 m3,482.21,16,88.3,7.4%,0.7%
+OIL488,Clearwater County,Storage Terminal,243604 m3,557.99,21,84.1,10.5%,3.6%
+OIL489,Strathcona County,Petrochemical Plant,65689 m3,720.5,17,81.4,11.5%,1.1%
+OIL490,Bonnyville M.D. No. 87,Refinery,237899 m3,527.42,16,91.1,2.8%,0.5%
+OIL491,Sachs Harbour,Petrochemical Plant,198630 m3,491.93,8,85.2,5.6%,1.6%
+OIL492,Bonnyville,Offshore Platform,290313 m3,590.44,14,83.2,10.5%,1.2%
+OIL493,Dawson City,Pipeline,373 km,674.4,20,89.8,5.9%,1.3%
+OIL494,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,193 km,811.35,17,91.9,2.4%,0.5%
+OIL495,Strathcona County,Pipeline,240 km,659.87,19,90.3,6.6%,0.5%
+OIL496,Dawson City,Refinery,157803 m3,943.65,25,89.2,7.8%,1.3%
+OIL497,Sachs Harbour,Offshore Platform,92771 m3,989.47,23,82.0,9.4%,2.9%
+OIL498,Ponoka County No. 3,Offshore Platform,100906 m3,1066.32,26,84.8,8.6%,1.8%
+OIL499,M.D. of Opportunity No. 17,Refinery,252211 m3,452.12,13,93.8,2.9%,0.5%
+OIL500,Peace River,Petrochemical Plant,100492 m3,320.5,11,85.7,6.0%,1.3%
+OIL501,Edmonton,Refinery,120990 m3,759.23,17,86.5,7.8%,2.3%
+OIL502,Regional Municipality of Wood Buffalo,Petrochemical Plant,191215 m3,868.38,22,80.3,9.1%,1.6%
+OIL503,Bonnyville,Petrochemical Plant,173800 m3,763.71,19,91.0,7.9%,2.1%
+OIL504,Whitehorse,Petrochemical Plant,57951 m3,723.61,19,90.5,3.9%,0.5%
+OIL505,Kugluktuk,Petrochemical Plant,187126 m3,979.32,19,87.0,6.5%,1.6%
+OIL506,Sachs Harbour,Pipeline,246 km,768.13,21,100.0,1.7%,0.5%
+OIL507,Edmonton,Pipeline,67 km,615.24,18,87.9,8.3%,1.3%
+OIL508,M.D. of Opportunity No. 17,Storage Terminal,60345 m3,755.37,19,88.2,4.8%,1.5%
+OIL509,Lac La Biche County,Petrochemical Plant,238841 m3,862.29,23,86.6,6.8%,1.7%
+OIL510,Fort Providence; Kakisa,Refinery,66576 m3,428.25,10,91.7,3.3%,1.0%
+OIL511,Clyde River,Offshore Platform,112894 m3,515.77,11,82.9,10.6%,2.4%
+OIL512,Yellowhead County,Offshore Platform,284453 m3,648.06,11,86.9,2.9%,0.5%
+OIL513,Fort Simpson,Petrochemical Plant,239938 m3,655.55,15,82.8,6.5%,1.3%
+OIL514,Inuvik,Offshore Platform,131463 m3,689.89,14,80.2,13.3%,1.6%
+OIL515,Inuvik,Refinery,52895 m3,731.68,18,88.3,10.8%,4.0%
+OIL516,Regional Municipality of Wood Buffalo,Refinery,74700 m3,547.26,17,87.2,4.4%,1.9%
+OIL517,Yellowhead County,Petrochemical Plant,85897 m3,755.87,17,85.0,7.3%,0.9%
+OIL518,Ponoka County No. 3,Offshore Platform,160776 m3,775.25,19,92.5,3.8%,1.5%
+OIL519,Peace River,Petrochemical Plant,53225 m3,924.79,27,83.9,12.3%,2.9%
+OIL520,Fort Saskatchewan,Offshore Platform,76502 m3,908.46,23,90.1,6.0%,1.5%
+OIL521,Regional Municipality of Wood Buffalo,Storage Terminal,292580 m3,606.39,14,87.5,4.8%,1.4%
+OIL522,Clyde River,Offshore Platform,132203 m3,1134.78,28,79.3,9.3%,1.4%
+OIL523,Lac La Biche County,Petrochemical Plant,196702 m3,723.44,14,87.5,4.8%,0.9%
+OIL524,Lutsel K’e,Pipeline,478 km,1070.89,22,92.9,0.5%,0.5%
+OIL525,Clearwater County,Storage Terminal,125069 m3,692.47,21,90.7,2.7%,0.5%
+OIL526,Fort Saskatchewan,Petrochemical Plant,213991 m3,960.05,21,91.3,1.8%,0.7%
+OIL527,Kugluktuk,Refinery,286538 m3,923.62,28,87.0,3.2%,0.6%
+OIL528,Clearwater County,Refinery,181225 m3,835.11,23,82.4,7.9%,2.5%
+OIL529,Dawson City,Pipeline,466 km,440.81,9,95.5,3.6%,0.5%
+OIL530,Kugluktuk,Petrochemical Plant,106117 m3,1009.83,24,86.5,10.1%,1.4%
+OIL531,Lac La Biche County,Storage Terminal,61397 m3,572.91,16,91.2,7.6%,1.6%
+OIL532,Ponoka County No. 3,Storage Terminal,170382 m3,631.01,16,86.1,10.1%,1.9%
+OIL533,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Storage Terminal,71209 m3,1171.1,30,88.6,2.5%,0.7%
+OIL534,Peace River,Storage Terminal,89041 m3,562.51,15,87.1,9.5%,2.7%
+OIL535,Kugluktuk,Offshore Platform,167409 m3,805.27,22,79.7,10.1%,1.4%
+OIL536,Lutsel K’e,Offshore Platform,156471 m3,1016.89,29,84.7,9.4%,0.9%
+OIL537,Peace River,Offshore Platform,159636 m3,744.0,15,87.1,4.8%,0.5%
+OIL538,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,283876 m3,904.11,25,90.0,5.8%,1.5%
+OIL539,Bonnyville,Refinery,266715 m3,1062.86,27,88.5,5.4%,1.1%
+OIL540,Strathcona County,Petrochemical Plant,173745 m3,794.43,24,81.0,9.7%,2.2%
+OIL541,Sachs Harbour,Petrochemical Plant,176218 m3,1072.51,32,99.6,-2.0%,0.5%
+OIL542,Fort Simpson,Storage Terminal,73004 m3,818.04,21,80.3,10.7%,3.1%
+OIL543,Redwater,Refinery,124205 m3,386.98,10,79.7,9.5%,2.7%
+OIL544,Fort Saskatchewan,Offshore Platform,113753 m3,745.94,15,90.0,3.9%,0.5%
+OIL545,M.D. of Opportunity No. 17,Offshore Platform,227169 m3,702.35,19,85.1,4.6%,1.2%
+OIL546,Athabasca County,Refinery,154504 m3,665.16,20,87.1,5.4%,0.5%
+OIL547,Whitehorse,Offshore Platform,210625 m3,1058.04,23,89.8,2.0%,0.5%
+OIL548,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Offshore Platform,164881 m3,517.69,18,88.2,7.6%,0.7%
+OIL549,Dawson City,Refinery,157798 m3,650.52,15,87.3,4.6%,0.7%
+OIL550,Inuvik,Petrochemical Plant,75938 m3,546.18,16,85.3,8.8%,2.5%
+OIL551,Athabasca County,Storage Terminal,54763 m3,1026.23,26,94.3,2.2%,0.5%
+OIL552,Ponoka County No. 3,Petrochemical Plant,127129 m3,882.29,19,90.7,6.4%,1.0%
+OIL553,Lac La Biche County,Storage Terminal,79087 m3,981.96,20,88.5,3.7%,0.7%
+OIL554,Bonnyville,Petrochemical Plant,137892 m3,827.73,17,86.6,6.1%,1.4%
+OIL555,Kugluktuk,Petrochemical Plant,194233 m3,788.25,18,87.3,6.5%,1.2%
+OIL556,Inuvik,Storage Terminal,209031 m3,815.96,20,84.7,10.4%,1.2%
+OIL557,Fort Providence; Kakisa,Storage Terminal,149508 m3,1046.95,23,92.4,2.6%,0.6%
+OIL558,Dawson City,Refinery,252123 m3,675.02,16,86.5,3.9%,0.6%
+OIL559,Clyde River,Petrochemical Plant,223364 m3,664.75,13,84.6,10.5%,3.1%
+OIL560,Strathcona County,Storage Terminal,221635 m3,725.46,17,82.4,7.9%,0.9%
+OIL561,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,78333 m3,1136.87,31,91.8,2.7%,0.5%
+OIL562,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,154234 m3,800.46,23,85.0,8.7%,3.1%
+OIL563,Yellowhead County,Offshore Platform,221459 m3,769.87,20,91.5,3.9%,0.5%
+OIL564,Lutsel K’e,Storage Terminal,62126 m3,764.23,18,91.7,3.1%,1.0%
+OIL565,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,207732 m3,713.45,20,86.8,6.1%,0.9%
+OIL566,Lac La Biche County,Pipeline,477 km,1101.65,27,89.3,1.4%,0.5%
+OIL567,Strathcona County,Refinery,116917 m3,1067.56,24,83.7,8.3%,3.1%
+OIL568,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,194 km,930.73,22,93.4,8.0%,1.1%
+OIL569,Dawson City,Storage Terminal,245889 m3,768.02,22,83.2,13.7%,3.0%
+OIL570,Peace River,Storage Terminal,71395 m3,486.87,15,90.5,4.4%,0.5%
+OIL571,Clearwater County,Petrochemical Plant,209762 m3,822.11,19,89.0,-0.2%,0.5%
+OIL572,Lutsel K’e,Offshore Platform,238788 m3,748.38,21,85.6,6.6%,1.0%
+OIL573,Kugluktuk,Offshore Platform,76128 m3,883.72,21,84.7,7.4%,0.6%
+OIL574,Dawson City,Storage Terminal,161825 m3,746.85,23,87.6,5.4%,0.5%
+OIL575,Clyde River,Storage Terminal,231143 m3,835.48,15,87.6,8.4%,2.3%
+OIL576,Strathcona County,Offshore Platform,281226 m3,653.06,15,83.1,10.9%,1.3%
+OIL577,Fort Saskatchewan,Offshore Platform,247286 m3,727.99,20,88.1,5.8%,0.9%
+OIL578,Clyde River,Offshore Platform,171544 m3,740.92,21,83.8,8.0%,1.6%
+OIL579,Athabasca County,Storage Terminal,194252 m3,485.31,8,89.6,1.2%,0.5%
+OIL580,Redwater,Refinery,81169 m3,606.68,21,82.0,11.3%,3.0%
+OIL581,Bonnyville,Refinery,83477 m3,866.04,22,85.1,4.4%,0.9%
+OIL582,Whitehorse,Offshore Platform,265253 m3,1053.53,24,86.4,6.7%,0.6%
+OIL583,Ponoka County No. 3,Refinery,192339 m3,851.17,20,91.6,2.6%,0.6%
+OIL584,Lutsel K’e,Storage Terminal,66535 m3,751.47,15,86.4,9.9%,2.7%
+OIL585,Edmonton,Petrochemical Plant,292330 m3,581.3,16,89.6,2.7%,0.5%
+OIL586,Athabasca County,Offshore Platform,93481 m3,941.71,20,84.3,8.4%,2.6%
+OIL587,Bonnyville M.D. No. 87,Storage Terminal,242102 m3,1016.78,30,91.7,7.3%,0.5%
+OIL588,Athabasca County,Petrochemical Plant,179207 m3,736.53,24,88.6,4.8%,0.9%
+OIL589,Ponoka County No. 3,Refinery,149397 m3,803.49,16,83.4,6.6%,1.5%
+OIL590,Edmonton,Refinery,152399 m3,943.17,22,89.1,7.5%,1.8%
+OIL591,Fort Simpson,Pipeline,327 km,677.59,19,92.0,6.2%,0.8%
+OIL592,Redwater,Refinery,271270 m3,475.04,6,96.2,2.5%,0.5%
+OIL593,Ponoka County No. 3,Storage Terminal,123495 m3,524.18,16,84.8,8.7%,2.2%
+OIL594,Lutsel K’e,Refinery,228735 m3,717.52,19,85.9,8.7%,0.8%
+OIL595,Kugluktuk,Offshore Platform,194375 m3,864.18,21,88.1,7.0%,2.3%
+OIL596,M.D. of Opportunity No. 17,Offshore Platform,77938 m3,1014.39,25,88.4,5.6%,1.3%
+OIL597,Redwater,Petrochemical Plant,282383 m3,853.79,22,92.9,3.2%,0.6%
+OIL598,Lutsel K’e,Pipeline,375 km,494.03,15,94.1,4.6%,1.3%
+OIL599,Sachs Harbour,Petrochemical Plant,80461 m3,658.0,17,87.0,7.2%,2.0%
+OIL600,Fort Providence; Kakisa,Pipeline,444 km,1145.78,26,83.9,5.7%,1.5%
+OIL601,Inuvik,Petrochemical Plant,157967 m3,822.91,26,93.5,5.9%,2.1%
+OIL602,Strathcona County,Petrochemical Plant,202053 m3,956.23,22,85.0,9.8%,1.2%
+OIL603,Peace River,Petrochemical Plant,126000 m3,443.91,12,80.5,8.9%,2.9%
+OIL604,Strathcona County,Refinery,62963 m3,1026.33,29,83.6,10.3%,1.9%
+OIL605,Bonnyville,Refinery,127225 m3,864.64,25,93.2,4.5%,1.4%
+OIL606,Peace River,Storage Terminal,73104 m3,889.98,22,88.6,7.0%,1.5%
+OIL607,Clyde River; Pond Inlet; Whale Cove,Storage Terminal,240252 m3,884.14,20,93.5,3.3%,0.5%
+OIL608,Peace River,Pipeline,316 km,935.1,23,97.1,-1.9%,0.5%
+OIL609,M.D. of Opportunity No. 17,Petrochemical Plant,197631 m3,938.09,24,89.6,5.1%,0.7%
+OIL610,Peace River,Storage Terminal,84808 m3,681.87,19,100.0,-2.0%,0.5%
+OIL611,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,51132 m3,702.46,21,87.0,10.7%,3.0%
+OIL612,Lac La Biche County,Petrochemical Plant,71301 m3,1093.41,27,82.0,6.7%,1.3%
+OIL613,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Petrochemical Plant,105809 m3,1018.1,29,82.6,10.3%,2.8%
+OIL614,Bonnyville M.D. No. 87,Refinery,139743 m3,739.33,17,76.3,10.1%,2.0%
+OIL615,Athabasca County,Pipeline,118 km,874.04,24,91.6,4.1%,0.7%
+OIL616,Edmonton,Pipeline,192 km,944.15,27,89.4,3.0%,1.1%
+OIL617,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Storage Terminal,110646 m3,939.85,20,96.5,-1.5%,0.5%
+OIL618,Clearwater County,Pipeline,245 km,685.87,22,88.7,5.2%,1.3%
+OIL619,Bonnyville M.D. No. 87,Petrochemical Plant,141038 m3,698.57,17,87.6,9.7%,1.1%
+OIL620,Clyde River,Refinery,128209 m3,923.69,23,88.4,3.4%,0.9%
+OIL621,Bonnyville,Pipeline,179 km,841.89,18,92.0,5.6%,2.4%
+OIL622,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,168142 m3,707.84,22,79.5,9.9%,1.7%
+OIL623,Ponoka County No. 3,Offshore Platform,248681 m3,992.88,26,80.5,6.5%,2.1%
+OIL624,Athabasca County,Refinery,155433 m3,972.67,25,83.8,8.2%,1.2%
+OIL625,Fort Saskatchewan,Offshore Platform,103502 m3,883.69,19,87.5,4.5%,1.2%
+OIL626,Dawson City,Refinery,122361 m3,828.06,23,91.4,2.0%,0.5%
+OIL627,Strathcona County,Storage Terminal,191172 m3,738.59,22,92.4,3.0%,0.5%
+OIL628,Fort Saskatchewan,Petrochemical Plant,190061 m3,217.15,6,89.1,-0.4%,0.5%
+OIL629,Regional Municipality of Wood Buffalo,Pipeline,183 km,754.87,23,94.5,6.0%,1.1%
+OIL630,Fort Providence; Kakisa,Refinery,201462 m3,525.13,14,90.3,4.6%,1.1%
+OIL631,Clearwater County,Petrochemical Plant,161316 m3,1096.39,27,84.7,6.7%,1.3%
+OIL632,Regional Municipality of Wood Buffalo,Offshore Platform,199634 m3,880.14,18,88.8,3.8%,1.2%
+OIL633,Fort Simpson,Storage Terminal,136148 m3,893.65,22,90.1,3.1%,0.5%
+OIL634,Inuvik,Storage Terminal,144346 m3,707.94,15,92.7,2.1%,0.5%
+OIL635,Strathcona County,Pipeline,348 km,640.0,15,87.8,8.2%,1.4%
+OIL636,Edmonton,Pipeline,353 km,788.77,20,90.1,3.0%,0.5%
+OIL637,Clearwater County,Pipeline,454 km,784.48,20,89.8,5.1%,1.2%
+OIL638,Fort Simpson,Offshore Platform,197531 m3,1020.46,24,87.4,7.3%,1.0%
+OIL639,Lutsel K’e,Offshore Platform,186260 m3,1277.67,35,87.9,6.3%,0.5%
+OIL640,Fort Providence; Kakisa,Storage Terminal,256833 m3,1222.47,32,88.1,4.7%,0.7%
+OIL641,M.D. of Opportunity No. 17,Offshore Platform,120404 m3,858.19,24,81.8,9.2%,2.5%
+OIL642,Whitehorse,Storage Terminal,69252 m3,675.12,19,91.6,8.3%,2.3%
+OIL643,Fort Simpson,Storage Terminal,138780 m3,916.94,22,91.6,2.9%,0.5%
+OIL644,Fort Saskatchewan,Storage Terminal,144192 m3,1056.19,23,92.7,5.0%,0.8%
+OIL645,Lac La Biche County,Storage Terminal,85929 m3,598.25,15,94.6,2.4%,0.5%
+OIL646,Edmonton,Petrochemical Plant,159331 m3,718.62,22,88.5,7.9%,1.0%
+OIL647,M.D. of Opportunity No. 17,Refinery,100248 m3,779.74,13,82.0,9.8%,1.5%
+OIL648,Kugluktuk,Refinery,112665 m3,765.95,18,88.9,4.4%,1.1%
+OIL649,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Offshore Platform,227145 m3,707.48,17,89.1,3.0%,0.5%
+OIL650,Fort Providence; Kakisa,Offshore Platform,279016 m3,682.82,19,81.3,9.2%,2.2%
+OIL651,M.D. of Opportunity No. 17,Pipeline,150 km,931.89,21,93.2,2.9%,0.5%
+OIL652,Strathcona County,Pipeline,447 km,1031.51,23,91.9,3.9%,1.2%
+OIL653,Fort Saskatchewan,Refinery,143220 m3,1001.32,29,86.5,7.0%,1.2%
+OIL654,Kugluktuk,Offshore Platform,132315 m3,923.95,28,88.7,6.2%,0.7%
+OIL655,Redwater,Refinery,103331 m3,760.3,16,88.7,6.8%,0.7%
+OIL656,Sachs Harbour,Petrochemical Plant,157658 m3,694.11,16,88.9,0.3%,1.3%
+OIL657,Whitehorse,Offshore Platform,208571 m3,672.7,17,82.3,9.7%,2.4%
+OIL658,Fort Saskatchewan,Petrochemical Plant,108436 m3,634.78,16,80.3,10.2%,1.1%
+OIL659,Fort Saskatchewan,Pipeline,292 km,633.5,12,84.6,9.3%,2.0%
+OIL660,Edmonton,Storage Terminal,206829 m3,1610.51,42,92.5,2.3%,0.5%
+OIL661,Bonnyville M.D. No. 87,Refinery,188919 m3,834.3,22,86.1,5.7%,1.1%
+OIL662,Regional Municipality of Wood Buffalo,Offshore Platform,254245 m3,1121.9,31,81.9,9.0%,1.9%
+OIL663,Clyde River; Pond Inlet; Whale Cove,Refinery,134085 m3,749.17,16,92.8,2.3%,0.5%
+OIL664,Yellowhead County,Refinery,235784 m3,596.45,13,92.9,6.1%,0.9%
+OIL665,Edmonton,Petrochemical Plant,196161 m3,809.75,14,86.3,6.8%,1.5%
+OIL666,Dawson City,Storage Terminal,172762 m3,783.99,14,84.6,5.5%,1.1%
+OIL667,Dawson City,Refinery,249176 m3,917.48,27,89.8,4.1%,1.0%
+OIL668,Bonnyville,Offshore Platform,113079 m3,628.49,15,81.4,9.2%,2.4%
+OIL669,Bonnyville M.D. No. 87,Pipeline,481 km,877.83,22,90.8,3.4%,1.1%
+OIL670,Regional Municipality of Wood Buffalo,Petrochemical Plant,197680 m3,758.87,21,92.2,6.0%,1.4%
+OIL671,Ponoka County No. 3,Offshore Platform,201007 m3,957.98,27,86.3,4.1%,1.4%
+OIL672,Regional Municipality of Wood Buffalo,Pipeline,425 km,786.05,16,96.1,4.4%,1.3%
+OIL673,Inuvik,Offshore Platform,109055 m3,654.61,8,82.8,11.2%,1.4%
+OIL674,Yellowhead County,Storage Terminal,199374 m3,525.23,14,81.1,7.1%,1.5%
+OIL675,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Petrochemical Plant,214244 m3,687.98,16,91.6,6.2%,1.0%
+OIL676,Sachs Harbour,Refinery,182040 m3,646.54,16,90.3,3.5%,0.5%
+OIL677,Athabasca County,Storage Terminal,217462 m3,628.44,15,89.1,3.4%,1.0%
+OIL678,Whitehorse,Petrochemical Plant,147459 m3,940.39,27,89.0,4.0%,0.5%
+OIL679,Athabasca County,Pipeline,107 km,688.91,17,95.1,2.7%,0.5%
+OIL680,Ponoka County No. 3,Petrochemical Plant,161030 m3,1208.44,32,85.4,7.5%,2.1%
+OIL681,Fort Saskatchewan,Storage Terminal,142091 m3,593.61,14,95.2,2.4%,0.8%
+OIL682,Peace River,Offshore Platform,108008 m3,762.26,20,88.6,4.8%,0.7%
+OIL683,Lac La Biche County,Offshore Platform,95117 m3,625.24,19,81.6,9.5%,2.1%
+OIL684,Strathcona County,Storage Terminal,208957 m3,1014.22,19,89.9,7.3%,1.6%
+OIL685,Fort Saskatchewan,Storage Terminal,105823 m3,556.68,11,92.8,3.6%,0.9%
+OIL686,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,472 km,722.09,12,87.0,6.8%,1.5%
+OIL687,Redwater,Offshore Platform,201667 m3,564.22,13,87.4,3.2%,1.6%
+OIL688,Fort Simpson,Petrochemical Plant,101990 m3,817.08,15,87.9,6.2%,1.1%
+OIL689,Athabasca County,Pipeline,336 km,952.67,19,92.0,3.0%,0.7%
+OIL690,Fort Providence; Kakisa,Storage Terminal,155584 m3,749.96,21,85.5,5.7%,1.7%
+OIL691,Kugluktuk,Refinery,255066 m3,849.67,21,89.6,5.6%,1.2%
+OIL692,Lutsel K’e,Offshore Platform,267410 m3,595.01,22,83.7,9.4%,1.7%
+OIL693,Lac La Biche County,Pipeline,418 km,483.51,15,86.5,5.9%,1.6%
+OIL694,Clearwater County,Refinery,112672 m3,612.58,16,89.8,5.3%,0.7%
+OIL695,Clearwater County,Petrochemical Plant,149862 m3,923.11,22,88.4,5.2%,1.2%
+OIL696,Lac La Biche County,Pipeline,124 km,942.41,26,97.5,2.4%,0.5%
+OIL697,Bonnyville M.D. No. 87,Pipeline,454 km,1006.78,24,95.6,2.4%,1.1%
+OIL698,Athabasca County,Refinery,219746 m3,564.67,15,88.3,2.0%,0.8%
+OIL699,Clyde River,Pipeline,274 km,827.47,29,91.3,2.1%,1.6%
+OIL700,Fort Simpson,Offshore Platform,134433 m3,930.04,25,83.6,11.6%,2.8%
+OIL701,Inuvik,Petrochemical Plant,275027 m3,1073.73,24,78.8,12.8%,2.3%
+OIL702,Edmonton,Storage Terminal,229024 m3,803.14,21,88.2,5.5%,1.1%
+OIL703,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,291112 m3,929.16,24,85.0,9.7%,2.4%
+OIL704,Bonnyville M.D. No. 87,Refinery,91548 m3,615.34,15,93.8,1.3%,0.5%
+OIL705,Whitehorse,Storage Terminal,243691 m3,860.54,22,97.6,-2.8%,0.5%
+OIL706,Regional Municipality of Wood Buffalo,Refinery,182425 m3,504.03,13,83.7,7.8%,2.3%
+OIL707,Clearwater County,Petrochemical Plant,165492 m3,631.13,18,87.1,1.8%,0.5%
+OIL708,Inuvik,Offshore Platform,288697 m3,614.24,14,84.3,10.4%,1.6%
+OIL709,Kugluktuk,Storage Terminal,92782 m3,861.57,28,84.4,10.2%,2.5%
+OIL710,Regional Municipality of Wood Buffalo,Offshore Platform,276090 m3,833.56,24,84.9,6.4%,1.0%
+OIL711,Strathcona County,Pipeline,99 km,530.21,12,83.9,5.3%,1.3%
+OIL712,Lac La Biche County,Refinery,244692 m3,1311.55,35,81.1,5.5%,1.0%
+OIL713,Bonnyville,Petrochemical Plant,111527 m3,1059.22,25,90.5,2.1%,1.5%
+OIL714,Ponoka County No. 3,Refinery,210449 m3,1057.48,33,89.5,6.3%,0.8%
+OIL715,Bonnyville M.D. No. 87,Pipeline,235 km,479.42,10,87.8,7.4%,1.7%
+OIL716,Strathcona County,Refinery,215279 m3,1062.15,24,93.4,0.2%,0.8%
+OIL717,Clyde River; Pond Inlet; Whale Cove,Storage Terminal,199594 m3,722.99,12,98.1,2.1%,0.5%
+OIL718,Inuvik,Refinery,110107 m3,737.47,20,84.8,7.2%,0.8%
+OIL719,Dawson City,Petrochemical Plant,50486 m3,745.52,22,83.8,8.5%,1.3%
+OIL720,Fort Saskatchewan,Offshore Platform,240968 m3,1074.29,23,83.9,10.5%,1.9%
+OIL721,Clyde River; Pond Inlet; Whale Cove,Refinery,151551 m3,1016.84,26,88.8,5.6%,0.5%
+OIL722,Inuvik,Pipeline,264 km,660.54,20,91.3,2.3%,0.5%
+OIL723,Fort Providence; Kakisa,Petrochemical Plant,180334 m3,808.48,22,90.7,10.1%,1.8%
+OIL724,Lutsel K’e,Storage Terminal,244243 m3,599.92,12,91.7,0.7%,0.5%
+OIL725,Fort Saskatchewan,Refinery,296889 m3,755.92,16,96.7,3.9%,1.3%
+OIL726,Regional Municipality of Wood Buffalo,Storage Terminal,62397 m3,702.02,18,94.6,1.6%,0.7%
+OIL727,M.D. of Opportunity No. 17,Petrochemical Plant,226719 m3,624.77,13,94.4,5.1%,1.6%
+OIL728,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,59 km,835.92,22,97.0,1.8%,0.5%
+OIL729,Regional Municipality of Wood Buffalo,Petrochemical Plant,164560 m3,886.33,24,97.3,-3.1%,0.5%
+OIL730,Strathcona County,Storage Terminal,211792 m3,907.76,25,89.4,5.3%,1.1%
+OIL731,Edmonton,Petrochemical Plant,200641 m3,627.19,15,82.1,10.9%,3.2%
+OIL732,Regional Municipality of Wood Buffalo,Refinery,256749 m3,932.77,19,79.3,9.0%,1.4%
+OIL733,Peace River,Pipeline,324 km,1018.42,21,93.8,2.6%,0.5%
+OIL734,Ponoka County No. 3,Pipeline,371 km,862.3,19,90.1,4.0%,0.5%
+OIL735,Inuvik,Refinery,175383 m3,763.21,14,87.8,3.4%,0.9%
+OIL736,Strathcona County,Offshore Platform,117853 m3,640.91,14,80.3,9.9%,1.3%
+OIL737,Whitehorse,Petrochemical Plant,104545 m3,900.38,24,83.0,8.4%,1.1%
+OIL738,Clearwater County,Petrochemical Plant,254818 m3,1081.78,28,90.9,6.1%,1.4%
+OIL739,Kugluktuk,Pipeline,191 km,788.59,23,93.4,3.2%,0.5%
+OIL740,Athabasca County,Storage Terminal,187863 m3,609.19,16,98.1,0.6%,0.5%
+OIL741,Kugluktuk,Offshore Platform,78876 m3,566.7,19,88.9,3.6%,1.1%
+OIL742,Dawson City,Offshore Platform,106176 m3,1232.24,25,83.9,8.0%,2.1%
+OIL743,Clyde River,Pipeline,191 km,734.67,19,98.1,1.7%,0.5%
+OIL744,Peace River,Refinery,159264 m3,741.41,11,82.8,9.8%,1.2%
+OIL745,Athabasca County,Pipeline,356 km,1148.05,27,88.2,5.5%,1.6%
+OIL746,Clearwater County,Storage Terminal,100762 m3,1001.8,24,85.6,5.4%,1.1%
+OIL747,Inuvik,Storage Terminal,279408 m3,703.28,20,85.8,2.0%,0.5%
+OIL748,Fort Providence; Kakisa,Storage Terminal,158241 m3,643.1,13,80.9,11.3%,1.9%
+OIL749,Clearwater County,Offshore Platform,179994 m3,900.92,24,80.0,7.0%,1.1%
+OIL750,Clyde River,Refinery,282065 m3,643.75,18,84.6,9.3%,2.0%
+OIL751,Bonnyville,Petrochemical Plant,86558 m3,588.87,14,82.1,10.9%,1.7%
+OIL752,Redwater,Refinery,232877 m3,1227.13,36,78.7,12.9%,2.6%
+OIL753,Clyde River,Refinery,182797 m3,845.98,20,90.6,5.9%,1.4%
+OIL754,Clyde River,Offshore Platform,205794 m3,760.0,13,72.5,14.2%,2.0%
+OIL755,M.D. of Opportunity No. 17,Refinery,297481 m3,733.96,18,86.0,3.6%,0.5%
+OIL756,Sachs Harbour,Refinery,242385 m3,677.62,16,86.5,4.8%,0.5%
+OIL757,Lutsel K’e,Refinery,72620 m3,859.41,18,91.4,8.4%,2.7%
+OIL758,Yellowhead County,Petrochemical Plant,280395 m3,655.21,18,97.0,1.5%,0.5%
+OIL759,M.D. of Opportunity No. 17,Pipeline,400 km,1024.99,20,93.6,2.6%,0.5%
+OIL760,Lac La Biche County,Refinery,213944 m3,937.38,25,86.7,9.9%,2.5%
+OIL761,Fort Saskatchewan,Offshore Platform,282910 m3,886.64,21,80.6,7.3%,0.5%
+OIL762,Ponoka County No. 3,Petrochemical Plant,249847 m3,868.36,25,87.4,5.3%,0.5%
+OIL763,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,111 km,906.33,21,92.4,5.5%,1.5%
+OIL764,Lutsel K’e,Storage Terminal,119409 m3,1035.76,26,91.2,2.8%,0.9%
+OIL765,M.D. of Opportunity No. 17,Storage Terminal,268194 m3,736.1,20,90.3,7.5%,1.8%
+OIL766,Regional Municipality of Wood Buffalo,Refinery,219169 m3,451.41,16,91.8,3.7%,1.0%
+OIL767,Fort Providence; Kakisa,Storage Terminal,262153 m3,778.69,15,88.9,7.3%,1.8%
+OIL768,Edmonton,Refinery,128315 m3,615.52,10,84.2,7.6%,0.5%
+OIL769,Whitehorse,Refinery,228168 m3,712.76,16,91.2,6.0%,1.4%
+OIL770,Bonnyville M.D. No. 87,Offshore Platform,271454 m3,906.6,20,83.6,6.2%,1.8%
+OIL771,Bonnyville M.D. No. 87,Offshore Platform,250990 m3,926.91,23,83.9,8.4%,1.2%
+OIL772,Ponoka County No. 3,Offshore Platform,252107 m3,809.09,22,83.7,7.8%,1.5%
+OIL773,Strathcona County,Pipeline,236 km,731.36,12,95.9,2.6%,1.2%
+OIL774,Peace River,Storage Terminal,99777 m3,747.14,21,92.2,3.8%,0.5%
+OIL775,M.D. of Opportunity No. 17,Storage Terminal,59372 m3,1045.87,25,90.8,5.9%,0.7%
+OIL776,M.D. of Opportunity No. 17,Petrochemical Plant,272933 m3,1016.43,24,82.1,4.5%,0.6%
+OIL777,Kugluktuk,Refinery,276367 m3,788.79,19,86.5,8.2%,1.3%
+OIL778,Fort Providence; Kakisa,Pipeline,459 km,1082.41,31,92.4,4.0%,1.0%
+OIL779,Clyde River; Pond Inlet; Whale Cove,Pipeline,498 km,551.05,14,82.9,8.1%,1.7%
+OIL780,Kugluktuk,Petrochemical Plant,291424 m3,591.55,13,87.8,7.8%,1.0%
+OIL781,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,176244 m3,805.89,22,84.1,5.1%,0.5%
+OIL782,Clyde River; Pond Inlet; Whale Cove,Pipeline,263 km,1194.88,32,86.5,4.1%,0.9%
+OIL783,Inuvik,Refinery,183180 m3,643.03,18,82.4,9.5%,2.6%
+OIL784,Edmonton,Petrochemical Plant,260377 m3,939.59,24,82.4,7.9%,2.0%
+OIL785,Athabasca County,Offshore Platform,289464 m3,1105.9,31,86.2,9.9%,1.8%
+OIL786,Inuvik,Refinery,80782 m3,906.07,21,95.3,4.7%,1.0%
+OIL787,Fort Providence; Kakisa,Petrochemical Plant,146188 m3,809.61,24,88.3,4.6%,0.6%
+OIL788,Ponoka County No. 3,Pipeline,386 km,458.12,12,88.7,8.8%,0.5%
+OIL789,Ponoka County No. 3,Refinery,183692 m3,1166.84,31,85.4,6.7%,1.7%
+OIL790,Peace River,Storage Terminal,207620 m3,465.11,13,92.7,5.0%,1.8%
+OIL791,Bonnyville M.D. No. 87,Offshore Platform,124723 m3,564.45,25,82.9,8.1%,0.5%
+OIL792,M.D. of Opportunity No. 17,Petrochemical Plant,172834 m3,621.17,24,83.0,6.7%,0.5%
+OIL793,Strathcona County,Petrochemical Plant,167827 m3,523.68,8,78.1,9.9%,1.7%
+OIL794,Clyde River; Pond Inlet; Whale Cove,Refinery,52176 m3,548.32,10,87.3,6.0%,1.0%
+OIL795,M.D. of Opportunity No. 17,Storage Terminal,168972 m3,821.41,21,96.4,1.2%,0.6%
+OIL796,Clyde River,Storage Terminal,93284 m3,891.08,21,91.9,3.8%,1.4%
+OIL797,Athabasca County,Pipeline,78 km,521.82,12,91.4,0.9%,0.5%
+OIL798,Peace River,Pipeline,382 km,943.1,24,92.4,4.8%,1.2%
+OIL799,Bonnyville M.D. No. 87,Pipeline,161 km,785.96,12,91.4,6.4%,1.0%
+OIL800,Bonnyville,Petrochemical Plant,141103 m3,580.4,16,85.6,8.1%,1.5%
+OIL801,Fort Saskatchewan,Petrochemical Plant,67158 m3,1022.33,26,86.5,7.8%,1.2%
+OIL802,M.D. of Opportunity No. 17,Storage Terminal,112502 m3,936.75,26,83.5,8.8%,1.9%
+OIL803,Fort Simpson,Refinery,111451 m3,959.81,26,92.7,1.8%,0.8%
+OIL804,Fort Saskatchewan,Pipeline,190 km,977.18,20,89.9,7.3%,0.8%
+OIL805,M.D. of Opportunity No. 17,Petrochemical Plant,218102 m3,898.51,21,84.9,9.2%,2.3%
+OIL806,Clyde River,Refinery,182828 m3,1088.06,29,85.9,7.6%,1.4%
+OIL807,Kugluktuk,Pipeline,272 km,965.99,21,85.8,7.6%,0.9%
+OIL808,Bonnyville,Petrochemical Plant,292955 m3,1051.74,29,85.1,9.3%,0.6%
+OIL809,Fort Simpson,Storage Terminal,59399 m3,889.4,20,96.6,2.9%,1.3%
+OIL810,Lutsel K’e,Pipeline,58 km,1042.47,26,87.9,4.4%,2.0%
+OIL811,M.D. of Opportunity No. 17,Pipeline,253 km,886.99,21,94.2,3.5%,0.9%
+OIL812,Fort Saskatchewan,Refinery,171716 m3,555.37,16,87.0,7.0%,1.9%
+OIL813,Yellowhead County,Pipeline,184 km,483.64,14,89.7,5.1%,0.8%
+OIL814,Whitehorse,Offshore Platform,79048 m3,854.61,18,90.9,4.0%,0.5%
+OIL815,Kugluktuk,Petrochemical Plant,100192 m3,1001.61,25,87.6,4.1%,0.5%
+OIL816,Inuvik,Pipeline,264 km,680.59,17,87.8,8.2%,1.2%
+OIL817,Inuvik,Offshore Platform,51868 m3,901.98,24,84.6,7.5%,1.9%
+OIL818,Bonnyville,Petrochemical Plant,56212 m3,760.99,12,87.0,8.2%,1.3%
+OIL819,Peace River,Petrochemical Plant,260126 m3,670.09,18,87.0,7.2%,1.1%
+OIL820,M.D. of Opportunity No. 17,Offshore Platform,144786 m3,840.43,28,87.4,4.5%,1.1%
+OIL821,Athabasca County,Offshore Platform,298304 m3,1091.5,30,91.4,5.2%,0.8%
+OIL822,M.D. of Opportunity No. 17,Pipeline,284 km,993.66,30,88.9,3.0%,0.5%
+OIL823,Bonnyville M.D. No. 87,Offshore Platform,201126 m3,711.11,17,85.2,6.4%,2.2%
+OIL824,Lutsel K’e,Petrochemical Plant,277021 m3,826.79,16,85.1,6.2%,0.9%
+OIL825,Fort Providence; Kakisa,Refinery,269073 m3,852.85,21,91.0,4.7%,0.7%
+OIL826,Sachs Harbour,Offshore Platform,118304 m3,849.08,21,88.0,3.7%,0.5%
+OIL827,Regional Municipality of Wood Buffalo,Petrochemical Plant,69924 m3,1153.96,29,82.3,9.4%,2.3%
+OIL828,Dawson City,Refinery,68344 m3,733.92,17,87.7,5.8%,1.0%
+OIL829,Fort Providence; Kakisa,Pipeline,219 km,630.76,18,93.8,0.6%,0.8%
+OIL830,Clearwater County,Pipeline,483 km,644.38,14,86.2,7.5%,1.2%
+OIL831,Inuvik,Pipeline,334 km,565.7,10,92.1,4.0%,0.6%
+OIL832,Clearwater County,Storage Terminal,91787 m3,790.81,17,85.8,9.2%,1.7%
+OIL833,Lutsel K’e,Pipeline,428 km,504.48,13,99.6,-1.6%,0.5%
+OIL834,M.D. of Opportunity No. 17,Petrochemical Plant,143608 m3,676.85,13,91.6,4.3%,0.5%
+OIL835,Clearwater County,Pipeline,420 km,768.29,16,92.4,0.7%,0.5%
+OIL836,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,256502 m3,978.0,26,95.0,2.0%,0.5%
+OIL837,Peace River,Storage Terminal,108481 m3,1215.68,31,89.6,7.7%,1.8%
+OIL838,Athabasca County,Refinery,54023 m3,619.83,17,92.7,3.6%,1.1%
+OIL839,Kugluktuk,Pipeline,347 km,996.28,27,91.8,0.3%,0.5%
+OIL840,Clyde River,Offshore Platform,192954 m3,704.69,13,82.2,9.0%,1.5%
+OIL841,Redwater,Refinery,57025 m3,547.25,10,88.4,7.7%,1.0%
+OIL842,Kugluktuk,Pipeline,293 km,1116.42,32,89.9,5.1%,0.6%
+OIL843,Ponoka County No. 3,Offshore Platform,158943 m3,911.91,22,95.7,0.8%,0.5%
+OIL844,Ponoka County No. 3,Offshore Platform,104555 m3,762.78,15,77.9,7.6%,1.5%
+OIL845,Bonnyville,Petrochemical Plant,80846 m3,858.24,20,86.3,1.9%,1.0%
+OIL846,M.D. of Opportunity No. 17,Pipeline,98 km,326.26,11,87.5,9.8%,1.8%
+OIL847,Inuvik,Storage Terminal,160454 m3,679.02,18,92.1,5.2%,0.5%
+OIL848,Bonnyville,Offshore Platform,275406 m3,631.99,22,88.4,4.9%,1.2%
+OIL849,Ponoka County No. 3,Storage Terminal,263485 m3,925.46,26,85.9,6.1%,1.2%
+OIL850,Fort Providence; Kakisa,Refinery,250798 m3,937.32,23,89.1,3.9%,0.6%
+OIL851,Redwater,Petrochemical Plant,201606 m3,982.04,24,82.2,9.0%,3.0%
+OIL852,Yellowhead County,Petrochemical Plant,85036 m3,980.14,24,93.3,3.0%,0.5%
+OIL853,Whitehorse,Petrochemical Plant,112901 m3,623.8,17,89.3,5.9%,1.6%
+OIL854,Whitehorse,Offshore Platform,77843 m3,813.87,23,80.8,7.8%,1.9%
+OIL855,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,152391 m3,410.53,13,84.8,9.3%,3.3%
+OIL856,Whitehorse,Storage Terminal,96069 m3,642.74,11,86.8,5.3%,1.7%
+OIL857,Strathcona County,Refinery,208486 m3,880.59,23,82.3,7.9%,1.2%
+OIL858,Sachs Harbour,Offshore Platform,148303 m3,923.81,18,90.7,5.3%,1.6%
+OIL859,Whitehorse,Refinery,89767 m3,719.61,21,86.3,10.5%,1.2%
+OIL860,Redwater,Petrochemical Plant,299435 m3,766.98,14,82.9,8.3%,1.0%
+OIL861,Bonnyville,Storage Terminal,215043 m3,401.62,6,88.0,7.1%,1.3%
+OIL862,Regional Municipality of Wood Buffalo,Petrochemical Plant,185486 m3,663.93,15,89.7,7.9%,2.3%
+OIL863,Clearwater County,Offshore Platform,185099 m3,748.21,18,89.5,7.8%,3.3%
+OIL864,Fort Providence; Kakisa,Refinery,122010 m3,522.92,15,87.0,9.5%,0.9%
+OIL865,Fort Simpson,Offshore Platform,194345 m3,546.62,15,91.8,4.0%,0.5%
+OIL866,Athabasca County,Refinery,189728 m3,799.24,14,87.2,4.7%,1.8%
+OIL867,Inuvik,Pipeline,161 km,976.01,20,93.3,1.7%,0.6%
+OIL868,Regional Municipality of Wood Buffalo,Petrochemical Plant,120077 m3,658.82,21,82.9,8.2%,2.1%
+OIL869,Inuvik,Offshore Platform,211929 m3,755.03,22,83.2,8.2%,1.4%
+OIL870,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,104078 m3,869.03,18,82.3,6.8%,2.2%
+OIL871,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,208387 m3,1019.56,25,86.5,5.2%,0.5%
+OIL872,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,130 km,149.43,6,86.6,7.0%,1.1%
+OIL873,M.D. of Opportunity No. 17,Storage Terminal,258411 m3,787.27,24,93.8,0.3%,0.5%
+OIL874,Lutsel K’e,Pipeline,224 km,620.39,13,90.2,0.4%,0.5%
+OIL875,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,254580 m3,738.16,17,93.0,2.1%,0.8%
+OIL876,Fort Providence; Kakisa,Offshore Platform,293234 m3,1160.36,33,83.1,9.7%,1.8%
+OIL877,Lac La Biche County,Refinery,209359 m3,906.14,21,88.2,5.3%,2.4%
+OIL878,Yellowhead County,Storage Terminal,230116 m3,859.65,23,91.5,3.7%,1.2%
+OIL879,Strathcona County,Offshore Platform,88138 m3,712.36,22,77.0,12.1%,0.7%
+OIL880,Bonnyville M.D. No. 87,Storage Terminal,133029 m3,725.47,20,86.9,3.1%,0.5%
+OIL881,Bonnyville M.D. No. 87,Petrochemical Plant,271668 m3,777.87,18,89.4,6.5%,1.3%
+OIL882,Peace River,Pipeline,473 km,647.71,15,88.7,5.6%,0.5%
+OIL883,Redwater,Storage Terminal,287778 m3,1061.08,22,85.8,9.7%,1.3%
+OIL884,Clyde River,Storage Terminal,108031 m3,659.26,17,85.9,6.0%,0.5%
+OIL885,Dawson City,Refinery,196930 m3,760.53,23,90.0,5.0%,1.5%
+OIL886,Whitehorse,Petrochemical Plant,110071 m3,892.01,19,89.6,5.2%,0.9%
+OIL887,Inuvik,Petrochemical Plant,251675 m3,1091.38,29,89.0,8.0%,2.9%
+OIL888,Whitehorse,Refinery,260171 m3,873.51,24,86.4,8.0%,1.8%
+OIL889,Lac La Biche County,Pipeline,431 km,911.37,17,88.3,7.2%,1.9%
+OIL890,Sachs Harbour,Petrochemical Plant,205021 m3,1155.65,29,82.9,5.4%,0.5%
+OIL891,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Refinery,261284 m3,916.48,24,82.8,9.0%,2.8%
+OIL892,Edmonton,Offshore Platform,188355 m3,706.05,18,89.6,4.0%,0.5%
+OIL893,Lutsel K’e,Petrochemical Plant,264469 m3,718.05,21,90.9,7.2%,2.0%
+OIL894,Dawson City,Pipeline,270 km,1020.69,19,87.0,7.5%,2.1%
+OIL895,Strathcona County,Offshore Platform,180842 m3,551.02,14,79.9,7.7%,2.6%
+OIL896,Ponoka County No. 3,Pipeline,413 km,937.98,24,88.8,7.4%,2.1%
+OIL897,Fort Providence; Kakisa,Offshore Platform,76844 m3,953.5,24,89.4,10.0%,1.9%
+OIL898,Fort Providence; Kakisa,Offshore Platform,137235 m3,475.51,9,84.4,10.8%,1.6%
+OIL899,Bonnyville M.D. No. 87,Storage Terminal,227805 m3,950.0,24,95.6,1.4%,0.5%
+OIL900,Edmonton,Petrochemical Plant,144594 m3,451.25,15,83.4,7.2%,1.9%
+OIL901,Ponoka County No. 3,Pipeline,397 km,551.56,13,94.5,6.4%,1.9%
+OIL902,Lac La Biche County,Pipeline,432 km,731.1,19,92.8,4.0%,0.7%
+OIL903,Clyde River; Pond Inlet; Whale Cove,Pipeline,193 km,846.25,21,90.9,5.5%,1.9%
+OIL904,Peace River,Offshore Platform,75989 m3,258.49,7,86.9,7.1%,2.8%
+OIL905,Lac La Biche County,Petrochemical Plant,179493 m3,600.39,15,80.0,8.5%,1.1%
+OIL906,Clyde River,Refinery,70043 m3,693.96,16,90.8,3.0%,0.5%
+OIL907,M.D. of Opportunity No. 17,Pipeline,308 km,448.91,9,93.9,1.6%,0.5%
+OIL908,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Petrochemical Plant,230786 m3,835.82,25,90.7,2.4%,0.9%
+OIL909,Clearwater County,Petrochemical Plant,138913 m3,640.34,12,86.8,4.1%,0.7%
+OIL910,Strathcona County,Pipeline,53 km,861.75,26,86.4,3.9%,0.5%
+OIL911,Strathcona County,Storage Terminal,136332 m3,970.69,28,89.1,5.8%,0.7%
+OIL912,Peace River,Storage Terminal,106974 m3,996.34,21,83.8,8.6%,1.2%
+OIL913,Edmonton,Refinery,253755 m3,405.46,13,84.0,6.3%,1.7%
+OIL914,Clearwater County,Storage Terminal,270010 m3,783.71,18,89.1,1.5%,0.5%
+OIL915,Peace River,Pipeline,437 km,672.42,14,96.8,-1.0%,0.5%
+OIL916,Whitehorse,Pipeline,149 km,711.94,17,86.0,9.1%,2.3%
+OIL917,Bonnyville M.D. No. 87,Offshore Platform,67106 m3,888.38,20,91.7,6.3%,0.5%
+OIL918,Yellowhead County,Refinery,131588 m3,459.84,14,89.7,4.8%,0.5%
+OIL919,Yellowhead County,Offshore Platform,267192 m3,556.86,14,79.2,8.2%,2.0%
+OIL920,Edmonton,Storage Terminal,290025 m3,831.35,21,84.7,4.6%,1.6%
+OIL921,Lac La Biche County,Offshore Platform,123973 m3,580.22,17,84.6,6.8%,1.3%
+OIL922,Strathcona County,Offshore Platform,75230 m3,910.6,22,88.3,3.4%,0.5%
+OIL923,Clyde River,Pipeline,147 km,891.85,22,85.3,10.6%,1.9%
+OIL924,Clearwater County,Petrochemical Plant,168915 m3,799.77,16,87.7,2.2%,0.5%
+OIL925,Fort Simpson,Offshore Platform,185431 m3,896.2,19,85.3,4.3%,2.2%
+OIL926,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Storage Terminal,211938 m3,798.38,19,91.8,0.8%,0.7%
+OIL927,Kugluktuk,Petrochemical Plant,54646 m3,739.95,15,82.0,10.7%,2.3%
+OIL928,Whitehorse,Storage Terminal,231203 m3,887.43,19,80.7,12.1%,2.4%
+OIL929,M.D. of Opportunity No. 17,Storage Terminal,163828 m3,583.3,17,90.4,9.3%,2.5%
+OIL930,Dawson City,Pipeline,93 km,942.2,26,93.4,-0.7%,0.5%
+OIL931,Redwater,Pipeline,335 km,881.81,24,86.6,5.8%,0.6%
+OIL932,Sachs Harbour,Refinery,289359 m3,689.0,19,88.0,5.7%,0.5%
+OIL933,Athabasca County,Petrochemical Plant,288292 m3,640.38,15,83.2,6.9%,1.7%
+OIL934,Kugluktuk,Offshore Platform,95380 m3,729.37,15,86.8,5.2%,1.2%
+OIL935,Strathcona County,Offshore Platform,162035 m3,1086.72,25,91.3,3.3%,0.5%
+OIL936,Fort Simpson,Refinery,260154 m3,952.69,26,90.4,4.3%,0.5%
+OIL937,Lutsel K’e,Offshore Platform,148869 m3,808.27,19,81.0,12.0%,1.9%
+OIL938,Strathcona County,Storage Terminal,60355 m3,649.3,19,84.9,5.4%,2.4%
+OIL939,Whitehorse,Petrochemical Plant,53810 m3,942.91,24,85.0,10.9%,2.0%
+OIL940,M.D. of Opportunity No. 17,Refinery,298924 m3,573.79,14,94.4,1.0%,0.5%
+OIL941,Sachs Harbour,Storage Terminal,276293 m3,823.54,16,91.8,2.2%,0.5%
+OIL942,Fort Simpson,Petrochemical Plant,175806 m3,973.82,27,79.5,9.0%,2.6%
+OIL943,Peace River,Refinery,83615 m3,533.51,17,82.1,7.6%,2.1%
+OIL944,Fort Saskatchewan,Petrochemical Plant,94134 m3,670.52,13,82.9,9.8%,2.0%
+OIL945,Ponoka County No. 3,Refinery,94387 m3,899.78,21,88.8,6.7%,1.0%
+OIL946,Clyde River,Storage Terminal,180509 m3,793.95,19,88.5,6.0%,1.0%
+OIL947,Lac La Biche County,Offshore Platform,155209 m3,892.74,24,87.2,8.0%,2.0%
+OIL948,Bonnyville,Refinery,244466 m3,520.47,10,90.9,2.2%,0.7%
+OIL949,Yellowhead County,Petrochemical Plant,177309 m3,519.53,19,86.9,6.4%,2.2%
+OIL950,Redwater,Pipeline,448 km,987.83,21,90.4,2.5%,0.5%
+OIL951,Redwater,Storage Terminal,179544 m3,667.62,17,90.2,6.3%,0.8%
+OIL952,Kugluktuk,Storage Terminal,190721 m3,608.79,20,95.4,5.0%,1.8%
+OIL953,Fort Saskatchewan,Refinery,174726 m3,887.56,23,97.0,-4.0%,0.5%
+OIL954,Peace River,Pipeline,144 km,474.9,13,96.0,5.6%,0.6%
+OIL955,Edmonton,Pipeline,328 km,639.96,15,98.5,-0.4%,0.5%
+OIL956,Fort Simpson,Petrochemical Plant,58711 m3,725.0,13,83.3,3.8%,0.6%
+OIL957,Inuvik,Petrochemical Plant,239878 m3,914.64,21,87.1,7.0%,0.5%
+OIL958,Regional Municipality of Wood Buffalo,Petrochemical Plant,272787 m3,728.42,18,85.3,6.1%,1.0%
+OIL959,Yellowhead County,Offshore Platform,204824 m3,877.13,22,87.6,7.4%,1.4%
+OIL960,Bonnyville,Pipeline,117 km,541.79,9,94.7,2.4%,0.5%
+OIL961,Kugluktuk,Storage Terminal,203557 m3,599.85,19,93.5,1.7%,1.5%
+OIL962,Redwater,Storage Terminal,234286 m3,624.02,17,89.4,6.0%,1.5%
+OIL963,Dawson City,Petrochemical Plant,108499 m3,425.05,10,81.9,9.2%,2.7%
+OIL964,Chesterfield Inlet; Coral Harbour; Pond Inlet; Rankin Inlet,Pipeline,256 km,973.06,20,96.8,3.0%,0.5%
+OIL965,Bonnyville,Pipeline,151 km,784.86,22,94.6,3.2%,0.7%
+OIL966,Edmonton,Offshore Platform,81126 m3,1067.06,30,87.6,6.4%,0.5%
+OIL967,Clearwater County,Refinery,183315 m3,700.34,21,84.2,6.3%,1.3%
+OIL968,Fort Saskatchewan,Pipeline,199 km,716.62,15,94.7,1.8%,0.5%
+OIL969,Regional Municipality of Wood Buffalo,Storage Terminal,226392 m3,783.22,18,92.3,4.0%,0.9%
+OIL970,Fort Saskatchewan,Pipeline,294 km,1061.97,25,94.1,1.6%,0.5%
+OIL971,Lutsel K’e,Storage Terminal,298399 m3,155.8,6,90.1,1.6%,0.5%
+OIL972,Inuvik,Offshore Platform,66191 m3,1106.33,29,88.2,4.7%,1.4%
+OIL973,Ponoka County No. 3,Petrochemical Plant,236737 m3,724.02,23,90.0,7.8%,1.9%
+OIL974,Lutsel K’e,Refinery,118247 m3,780.05,22,87.6,6.4%,2.3%
+OIL975,Fort Providence; Kakisa,Storage Terminal,98478 m3,1037.42,23,88.3,4.4%,0.5%
+OIL976,Ponoka County No. 3,Storage Terminal,50246 m3,927.33,26,92.5,5.8%,2.1%
+OIL977,Sachs Harbour,Storage Terminal,188542 m3,783.62,23,93.0,4.1%,0.7%
+OIL978,Clyde River; Pond Inlet; Whale Cove,Storage Terminal,257888 m3,898.92,28,91.4,2.0%,0.8%
+OIL979,Athabasca County,Refinery,231942 m3,757.26,13,82.5,12.2%,1.7%
+OIL980,Clyde River; Pond Inlet; Whale Cove,Offshore Platform,90935 m3,912.76,19,78.0,13.2%,1.6%
+OIL981,Redwater,Refinery,136569 m3,897.41,26,92.3,1.2%,0.5%
+OIL982,Regional Municipality of Wood Buffalo,Pipeline,451 km,645.36,16,94.0,3.0%,0.5%
+OIL983,Athabasca County,Pipeline,414 km,600.62,12,91.2,3.7%,0.9%
+OIL984,Sachs Harbour,Petrochemical Plant,193279 m3,674.19,16,85.3,6.4%,2.9%
+OIL985,Ponoka County No. 3,Petrochemical Plant,217848 m3,943.83,29,86.7,7.9%,2.1%
+OIL986,Lutsel K’e,Refinery,102802 m3,791.75,23,90.6,6.4%,1.9%
+OIL987,Ponoka County No. 3,Offshore Platform,177922 m3,974.8,25,85.7,5.5%,1.4%
+OIL988,Dawson City,Offshore Platform,151131 m3,743.81,10,89.4,4.2%,0.5%
+OIL989,Fort Simpson,Storage Terminal,123366 m3,1137.32,27,89.7,5.1%,1.6%
+OIL990,Peace River,Refinery,281436 m3,792.17,20,92.9,2.8%,0.5%
+OIL991,Edmonton,Petrochemical Plant,221796 m3,1052.37,27,93.3,1.9%,0.8%
+OIL992,Fort Simpson,Offshore Platform,127338 m3,685.26,16,86.4,7.7%,0.5%
+OIL993,Yellowhead County,Pipeline,177 km,866.01,26,91.6,4.7%,1.2%
+OIL994,Peace River,Petrochemical Plant,181639 m3,954.73,20,83.1,7.6%,0.9%
+OIL995,Kugluktuk,Petrochemical Plant,115263 m3,885.26,25,84.2,12.6%,4.1%
+OIL996,Peace River,Pipeline,118 km,580.65,15,93.2,3.3%,0.5%
+OIL997,Sachs Harbour,Petrochemical Plant,294413 m3,717.53,16,84.0,9.0%,1.1%
+OIL998,Athabasca County,Pipeline,458 km,542.48,14,95.3,5.3%,1.5%
+OIL999,Ponoka County No. 3,Offshore Platform,72161 m3,795.31,27,84.9,8.1%,0.5%
+OIL1000,M.D. of Opportunity No. 17,Offshore Platform,158378 m3,497.81,10,91.0,5.6%,1.0%
